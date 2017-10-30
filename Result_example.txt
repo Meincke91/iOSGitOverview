@@ -1,0 +1,6999 @@
+
+
+////////////////////////////////////////////////////
+
+Python(174)
+
+////////////////////////////////////////////////////
+
+
+python-fire
+
+Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+Stars: 6910 	 fork: 339 	 updated: 2017-10-25
+----------------------------------------------------
+yapf
+
+A formatter for Python files
+
+Stars: 5713 	 fork: 384 	 updated: 2017-10-25
+----------------------------------------------------
+roboto
+
+The Roboto family of fonts
+
+Stars: 2896 	 fork: 243 	 updated: 2017-10-25
+----------------------------------------------------
+seq2seq
+
+A general-purpose encoder-decoder framework for Tensorflow
+
+Stars: 2823 	 fork: 566 	 updated: 2017-10-25
+----------------------------------------------------
+grr
+
+GRR Rapid Response: remote live forensics for incident response
+
+Stars: 2343 	 fork: 418 	 updated: 2017-10-24
+----------------------------------------------------
+nogotofail
+
+An on-path blackbox network traffic security testing tool
+
+Stars: 2183 	 fork: 298 	 updated: 2017-10-24
+----------------------------------------------------
+enjarify
+
+No Description.
+
+Stars: 2011 	 fork: 374 	 updated: 2017-10-23
+----------------------------------------------------
+sanitizers
+
+AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+Stars: 1826 	 fork: 239 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-python-client
+
+No Description.
+
+Stars: 1810 	 fork: 844 	 updated: 2017-10-25
+----------------------------------------------------
+pyringe
+
+Debugger capable of attaching to and injecting code into python processes.
+
+Stars: 1418 	 fork: 56 	 updated: 2017-10-23
+----------------------------------------------------
+prettytensor
+
+Pretty Tensor: Fluent Networks in TensorFlow
+
+Stars: 1082 	 fork: 122 	 updated: 2017-10-24
+----------------------------------------------------
+rekall
+
+Rekall Memory Forensic Framework
+
+Stars: 954 	 fork: 196 	 updated: 2017-10-25
+----------------------------------------------------
+glazier
+
+A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
+
+Stars: 924 	 fork: 58 	 updated: 2017-10-07
+----------------------------------------------------
+youtube-8m
+
+Starter code for working with the YouTube-8M dataset.
+
+Stars: 747 	 fork: 364 	 updated: 2017-10-24
+----------------------------------------------------
+timesketch
+
+Collaborative forensic timeline analysis
+
+Stars: 664 	 fork: 123 	 updated: 2017-10-24
+----------------------------------------------------
+budou
+
+Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
+
+Stars: 660 	 fork: 29 	 updated: 2017-10-25
+----------------------------------------------------
+spatial-media
+
+Specifications and tools for 360º video and spatial audio.
+
+Stars: 644 	 fork: 190 	 updated: 2017-10-24
+----------------------------------------------------
+pinject
+
+A pythonic dependency injection library.
+
+Stars: 631 	 fork: 49 	 updated: 2017-10-22
+----------------------------------------------------
+oauth2client
+
+This is a Python library for accessing resources protected by OAuth 2.0.
+
+Stars: 606 	 fork: 305 	 updated: 2017-10-25
+----------------------------------------------------
+macops
+
+Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment
+
+Stars: 563 	 fork: 59 	 updated: 2017-10-24
+----------------------------------------------------
+python-adb
+
+Python ADB + Fastboot implementation
+
+Stars: 510 	 fork: 150 	 updated: 2017-10-24
+----------------------------------------------------
+domato
+
+DOM fuzzer
+
+Stars: 489 	 fork: 81 	 updated: 2017-10-23
+----------------------------------------------------
+ssl_logger
+
+Decrypts and logs a process's SSL traffic.
+
+Stars: 468 	 fork: 43 	 updated: 2017-10-25
+----------------------------------------------------
+adb-sync
+
+No Description.
+
+Stars: 341 	 fork: 49 	 updated: 2017-10-24
+----------------------------------------------------
+pytype
+
+No Description.
+
+Stars: 335 	 fork: 23 	 updated: 2017-10-24
+----------------------------------------------------
+transitfeed
+
+A Python library for reading, validating, and writing transit schedule information in the GTFS format.
+
+Stars: 326 	 fork: 115 	 updated: 2017-10-22
+----------------------------------------------------
+aiyprojects-raspbian
+
+An easy-to-use API for the AIY Voice Kit
+
+Stars: 308 	 fork: 139 	 updated: 2017-10-24
+----------------------------------------------------
+fplutil
+
+fplutil is a set of small libraries and tools that can be useful when developing applications for Android and other platforms.
+
+Stars: 295 	 fork: 38 	 updated: 2017-10-16
+----------------------------------------------------
+simian
+
+Simian is an enterprise-class Mac OS X software deployment solution.  Google App Engine hosted server, with a client powered by the Munki open-source project.
+
+Stars: 279 	 fork: 45 	 updated: 2017-10-24
+----------------------------------------------------
+personfinder
+
+Person Finder is a searchable missing person database written in Python and hosted on App Engine.
+
+Stars: 277 	 fork: 122 	 updated: 2017-10-25
+----------------------------------------------------
+capirca
+
+Multi-platform ACL generation system
+
+Stars: 247 	 fork: 81 	 updated: 2017-10-25
+----------------------------------------------------
+ggrc-core
+
+GGRC Core
+
+Stars: 231 	 fork: 163 	 updated: 2017-10-20
+----------------------------------------------------
+pygtrie
+
+Python library implementing a trie data structure.
+
+Stars: 231 	 fork: 50 	 updated: 2017-10-22
+----------------------------------------------------
+vroom
+
+Launch vim tests
+
+Stars: 221 	 fork: 22 	 updated: 2017-10-10
+----------------------------------------------------
+cauliflowervest
+
+App Engine-based escrow solution for enterprise management of disk encryption technologies for OS X (FileVault 2), Windows (BitLocker), and Linux (LUKS).
+
+Stars: 179 	 fork: 23 	 updated: 2017-10-24
+----------------------------------------------------
+android-testing-support-library
+
+An extensive framework for testing Android apps
+
+Stars: 164 	 fork: 36 	 updated: 2017-10-18
+----------------------------------------------------
+import-mailbox-to-gmail
+
+Import .mbox files into G Suite
+
+Stars: 157 	 fork: 43 	 updated: 2017-10-24
+----------------------------------------------------
+textfsm
+
+Python module for parsing semi-structured text into python tables.
+
+Stars: 150 	 fork: 35 	 updated: 2017-10-23
+----------------------------------------------------
+vimdoc
+
+Helpfile generation for vim 
+
+Stars: 140 	 fork: 16 	 updated: 2017-10-23
+----------------------------------------------------
+mobly
+
+E2E test framework for tests with complex environment requirements.
+
+Stars: 135 	 fork: 43 	 updated: 2017-10-24
+----------------------------------------------------
+python-gflags
+
+Python implementation of the Google commandline flags module.
+
+Stars: 135 	 fork: 49 	 updated: 2017-10-22
+----------------------------------------------------
+androguard
+
+Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
+
+Stars: 128 	 fork: 29 	 updated: 2017-09-15
+----------------------------------------------------
+encrypted-bigquery-client
+
+An experimental version of the BQ client which adds client-side encryption
+
+Stars: 127 	 fork: 21 	 updated: 2017-09-26
+----------------------------------------------------
+mysql-tools
+
+No Description.
+
+Stars: 126 	 fork: 46 	 updated: 2017-10-16
+----------------------------------------------------
+ipaddr-py
+
+Google's Python IP address manipulation library
+
+Stars: 120 	 fork: 45 	 updated: 2017-10-24
+----------------------------------------------------
+pywebsocket
+
+WebSocket server and extension for Apache HTTP Server for testing
+
+Stars: 115 	 fork: 77 	 updated: 2017-10-17
+----------------------------------------------------
+closure-linter
+
+Automatically exported from code.google.com/p/closure-linter
+
+Stars: 96 	 fork: 27 	 updated: 2017-09-30
+----------------------------------------------------
+gae-secure-scaffold-python
+
+No Description.
+
+Stars: 96 	 fork: 39 	 updated: 2017-09-27
+----------------------------------------------------
+python-subprocess32
+
+A backport of the Python 3 subprocess module for use on Python 2.
+
+Stars: 87 	 fork: 24 	 updated: 2017-10-22
+----------------------------------------------------
+apis-client-generator
+
+The Google APIs Client Generator is a tool for generating client libraries for APIs based on the Google API Discovery format. It is based on the same core technology Google uses to publish their API libraries.  Current support is for C++, C#/.NET, Dart, Java, Java/GWT, and PHP.
+
+Stars: 87 	 fork: 27 	 updated: 2017-09-16
+----------------------------------------------------
+tcp_killer
+
+Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
+
+Stars: 84 	 fork: 7 	 updated: 2017-10-15
+----------------------------------------------------
+coursebuilder-core
+
+No Description.
+
+Stars: 81 	 fork: 65 	 updated: 2017-09-02
+----------------------------------------------------
+Legilimency
+
+No Description.
+
+Stars: 77 	 fork: 6 	 updated: 2017-10-23
+----------------------------------------------------
+hyou
+
+Pythonic Interface to manipulate Google Spreadsheet.
+
+Stars: 77 	 fork: 16 	 updated: 2017-09-19
+----------------------------------------------------
+url_diff
+
+No Description.
+
+Stars: 72 	 fork: 19 	 updated: 2017-10-19
+----------------------------------------------------
+subpar
+
+Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
+
+Stars: 71 	 fork: 13 	 updated: 2017-10-24
+----------------------------------------------------
+apitools
+
+No Description.
+
+Stars: 70 	 fork: 66 	 updated: 2017-10-04
+----------------------------------------------------
+oauth2l
+
+oauth2l ("oauth tool") is a simple CLI for interacting with Google oauth tokens.
+
+Stars: 69 	 fork: 15 	 updated: 2017-10-18
+----------------------------------------------------
+gtest-parallel
+
+Run Google Test suites in parallel.
+
+Stars: 67 	 fork: 33 	 updated: 2017-10-20
+----------------------------------------------------
+google-visualization-python
+
+Automatically exported from code.google.com/p/google-visualization-python
+
+Stars: 66 	 fork: 37 	 updated: 2017-10-22
+----------------------------------------------------
+cluster-insight
+
+No Description.
+
+Stars: 65 	 fork: 21 	 updated: 2017-10-12
+----------------------------------------------------
+paramgmt
+
+A parallel SSH-based remote machine management system
+
+Stars: 63 	 fork: 19 	 updated: 2017-10-13
+----------------------------------------------------
+sre_yield
+
+Python module to generate regular all expression matches
+
+Stars: 62 	 fork: 15 	 updated: 2017-10-19
+----------------------------------------------------
+pytypedecl
+
+No Description.
+
+Stars: 60 	 fork: 11 	 updated: 2017-10-15
+----------------------------------------------------
+vogon
+
+Scalable customization of video campaigns
+
+Stars: 58 	 fork: 19 	 updated: 2017-10-11
+----------------------------------------------------
+rfmt
+
+R source code formatter
+
+Stars: 57 	 fork: 10 	 updated: 2017-10-04
+----------------------------------------------------
+memcache-collections
+
+Concurrent, distributed data structures on top of memcache
+
+Stars: 55 	 fork: 21 	 updated: 2017-07-06
+----------------------------------------------------
+certificate-transparency-rfcs
+
+Certificate Transparency RFC
+
+Stars: 55 	 fork: 32 	 updated: 2017-10-20
+----------------------------------------------------
+gfw-deployments
+
+Scripts and tools created by the Google For Work Team. (Contributions Encouraged!)
+
+Stars: 51 	 fork: 42 	 updated: 2017-10-04
+----------------------------------------------------
+ctfscoreboard
+
+Scoreboard for Capture The Flag competitions, used by the Google CTF event
+
+Stars: 51 	 fork: 28 	 updated: 2017-10-16
+----------------------------------------------------
+nsscache
+
+asynchronously synchronise local NSS databases with remote directory services
+
+Stars: 48 	 fork: 33 	 updated: 2017-10-19
+----------------------------------------------------
+anvil-build
+
+A parallel build system and content pipeline
+
+Stars: 48 	 fork: 12 	 updated: 2017-08-18
+----------------------------------------------------
+meterstick
+
+A concise syntax to describe and execute routine data analysis tasks
+
+Stars: 42 	 fork: 3 	 updated: 2017-10-17
+----------------------------------------------------
+protorpc
+
+No Description.
+
+Stars: 42 	 fork: 30 	 updated: 2017-09-25
+----------------------------------------------------
+turbinia
+
+Scaling Digital Forensic Tool Automation
+
+Stars: 40 	 fork: 7 	 updated: 2017-10-20
+----------------------------------------------------
+python_portpicker
+
+A module to find available network ports for testing.
+
+Stars: 38 	 fork: 26 	 updated: 2017-10-05
+----------------------------------------------------
+clusterfuzz-tools
+
+Bugs are inevitable. Suffering is optional.
+
+Stars: 38 	 fork: 16 	 updated: 2017-10-24
+----------------------------------------------------
+pytruth
+
+Assertion framework for Python unit tests
+
+Stars: 34 	 fork: 2 	 updated: 2017-10-05
+----------------------------------------------------
+network-mapper
+
+No Description.
+
+Stars: 34 	 fork: 16 	 updated: 2017-07-14
+----------------------------------------------------
+dotty
+
+No Description.
+
+Stars: 33 	 fork: 12 	 updated: 2017-10-22
+----------------------------------------------------
+containerregistry
+
+A set of Python libraries and tools for interacting with a Docker Registry.
+
+Stars: 33 	 fork: 17 	 updated: 2017-10-18
+----------------------------------------------------
+light-my-piano
+
+Teaches you to play the piano by lighting up the piano key you need to press
+
+Stars: 32 	 fork: 7 	 updated: 2017-07-13
+----------------------------------------------------
+gsa-admin-toolkit
+
+Tools for common Google Search Appliance (GSA) administrative tasks
+
+Stars: 32 	 fork: 32 	 updated: 2017-09-01
+----------------------------------------------------
+ci_edit
+
+No Description.
+
+Stars: 31 	 fork: 18 	 updated: 2017-10-23
+----------------------------------------------------
+citest
+
+Library and tools that facilitate writing integration-tests for cloud services
+
+Stars: 31 	 fork: 27 	 updated: 2017-10-16
+----------------------------------------------------
+elemental2
+
+Type checked access to browser APIs for Java code.
+
+Stars: 30 	 fork: 7 	 updated: 2017-10-20
+----------------------------------------------------
+rtc-video-quality
+
+Compare (Real-Time) Video Codec Performance
+
+Stars: 29 	 fork: 12 	 updated: 2017-10-23
+----------------------------------------------------
+GL-Shader-Validator
+
+No Description.
+
+Stars: 28 	 fork: 11 	 updated: 2017-10-10
+----------------------------------------------------
+usbinfo
+
+No Description.
+
+Stars: 27 	 fork: 16 	 updated: 2017-06-26
+----------------------------------------------------
+mcafp
+
+No Description.
+
+Stars: 26 	 fork: 7 	 updated: 2017-10-24
+----------------------------------------------------
+winops
+
+Small scripts and libraries for managing Windows in a corporate environment.
+
+Stars: 26 	 fork: 5 	 updated: 2017-09-14
+----------------------------------------------------
+gfw-toolkit
+
+Enterprise command-line scripts and samples for Google Apps Admin SDK.
+
+Stars: 26 	 fork: 11 	 updated: 2017-07-06
+----------------------------------------------------
+compare-codecs
+
+No Description.
+
+Stars: 26 	 fork: 7 	 updated: 2017-09-15
+----------------------------------------------------
+linear-book-scanner
+
+No Description.
+
+Stars: 26 	 fork: 12 	 updated: 2017-10-22
+----------------------------------------------------
+hdrnet
+
+An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement', SIGGRAPH 2017
+
+Stars: 26 	 fork: 18 	 updated: 2017-10-22
+----------------------------------------------------
+terminal-app-function-keys
+
+Terminal.app configuration handling Fn keys right
+
+Stars: 26 	 fork: 6 	 updated: 2017-09-19
+----------------------------------------------------
+simple-reinforcement-learning
+
+No Description.
+
+Stars: 25 	 fork: 12 	 updated: 2017-10-07
+----------------------------------------------------
+ldpush
+
+A cross-vendor network device configuration distribution tool
+
+Stars: 25 	 fork: 11 	 updated: 2017-07-28
+----------------------------------------------------
+google-apputils
+
+Please use https://github.com/abseil/abseil-py instead. This was auto-exported from code.google.com/p/google-apputils-python
+
+Stars: 24 	 fork: 17 	 updated: 2017-09-28
+----------------------------------------------------
+dpy
+
+Python Inversion of Control
+
+Stars: 23 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+identity-toolkit-python-client
+
+Google Identity Toolkit client library for Python
+
+Stars: 23 	 fork: 19 	 updated: 2017-05-14
+----------------------------------------------------
+support-tools
+
+Automatically exported from code.google.com/p/support-tools
+
+Stars: 23 	 fork: 23 	 updated: 2017-08-09
+----------------------------------------------------
+arithmancer
+
+Logarithmic Market Scoring Rule Prediction Market
+
+Stars: 21 	 fork: 10 	 updated: 2017-09-06
+----------------------------------------------------
+ashier
+
+Automating Terminal Interactions with Templates
+
+Stars: 19 	 fork: 5 	 updated: 2017-08-18
+----------------------------------------------------
+catnip
+
+Catnip Sandbox
+
+Stars: 19 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+realtime-help
+
+No Description.
+
+Stars: 18 	 fork: 9 	 updated: 2017-07-06
+----------------------------------------------------
+appengine_xblock_runtime
+
+No Description.
+
+Stars: 17 	 fork: 10 	 updated: 2017-08-18
+----------------------------------------------------
+lab_device_proxy
+
+Executes adb and idevice commands on a remote host.
+
+Stars: 16 	 fork: 4 	 updated: 2017-07-06
+----------------------------------------------------
+coursebuilder-android-container-module
+
+No Description.
+
+Stars: 16 	 fork: 6 	 updated: 2017-01-27
+----------------------------------------------------
+CSP-Validator
+
+CSP-Validator
+
+Stars: 16 	 fork: 10 	 updated: 2017-08-10
+----------------------------------------------------
+binplist
+
+Binary property list (plist) parser
+
+Stars: 14 	 fork: 12 	 updated: 2017-08-19
+----------------------------------------------------
+mipsqa
+
+No Description.
+
+Stars: 14 	 fork: 2 	 updated: 2017-09-25
+----------------------------------------------------
+packet-queue
+
+No Description.
+
+Stars: 14 	 fork: 8 	 updated: 2017-07-18
+----------------------------------------------------
+cloudprint_logocert
+
+Google Cloud Print Logo Certification Automation
+
+Stars: 14 	 fork: 20 	 updated: 2017-09-28
+----------------------------------------------------
+googleapps-message-recall
+
+No Description.
+
+Stars: 13 	 fork: 12 	 updated: 2017-07-06
+----------------------------------------------------
+coursebuilder_xblock_module
+
+No Description.
+
+Stars: 13 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+generativemloncloud
+
+No Description.
+
+Stars: 13 	 fork: 2 	 updated: 2017-10-10
+----------------------------------------------------
+OctoPrint-LEDStripControl
+
+OctoPrint plugin that intercepts M150 GCode commands and controls local GPIOs connected to LEDs.
+
+Stars: 12 	 fork: 6 	 updated: 2017-09-21
+----------------------------------------------------
+ebola-tools
+
+No Description.
+
+Stars: 12 	 fork: 5 	 updated: 2017-09-29
+----------------------------------------------------
+firmata.py
+
+No Description.
+
+Stars: 12 	 fork: 9 	 updated: 2017-07-06
+----------------------------------------------------
+jacs
+
+No Description.
+
+Stars: 11 	 fork: 6 	 updated: 2017-03-03
+----------------------------------------------------
+text2text
+
+No Description.
+
+Stars: 11 	 fork: 3 	 updated: 2017-09-04
+----------------------------------------------------
+coursebuilder-lti-module
+
+No Description.
+
+Stars: 10 	 fork: 3 	 updated: 2017-06-09
+----------------------------------------------------
+x509test
+
+X.509 certificate test suite
+
+Stars: 9 	 fork: 4 	 updated: 2017-10-25
+----------------------------------------------------
+Zhi
+
+Interactive LaTeX Paper Writing in Google Drive
+
+Stars: 9 	 fork: 3 	 updated: 2017-08-29
+----------------------------------------------------
+merge_pyi
+
+No Description.
+
+Stars: 9 	 fork: 3 	 updated: 2017-05-03
+----------------------------------------------------
+checkers
+
+No Description.
+
+Stars: 9 	 fork: 5 	 updated: 2017-08-29
+----------------------------------------------------
+byterun
+
+A Python implementation of a Python bytecode runner
+
+Stars: 8 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+mirandum
+
+No Description.
+
+Stars: 8 	 fork: 6 	 updated: 2017-09-11
+----------------------------------------------------
+AppSpeedIndex
+
+No Description.
+
+Stars: 7 	 fork: 4 	 updated: 2017-08-18
+----------------------------------------------------
+eclipse2017
+
+Source code for North American Eclipse 2017 Megamovie project
+
+Stars: 7 	 fork: 2 	 updated: 2017-10-08
+----------------------------------------------------
+pyu2f
+
+pyu2f is a python based U2F host library for Linux, Windows, and MacOS. It provides functionality for interacting with a U2F device over USB.
+
+Stars: 7 	 fork: 10 	 updated: 2017-09-17
+----------------------------------------------------
+copr-sundry
+
+Collection of rpm spec files for various packages.
+
+Stars: 6 	 fork: 8 	 updated: 2017-08-19
+----------------------------------------------------
+rttcp
+
+No Description.
+
+Stars: 6 	 fork: 3 	 updated: 2017-09-22
+----------------------------------------------------
+py-ast-utils
+
+No Description.
+
+Stars: 6 	 fork: 4 	 updated: 2017-08-03
+----------------------------------------------------
+android-wear-stitch-script
+
+No Description.
+
+Stars: 6 	 fork: 1 	 updated: 2017-09-26
+----------------------------------------------------
+blkcgroup
+
+Automatically exported from code.google.com/p/blkcgroup
+
+Stars: 6 	 fork: 2 	 updated: 2017-09-25
+----------------------------------------------------
+cpython-pt
+
+Fork from python/cpython
+
+Stars: 6 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+nixysa
+
+Automatically exported from code.google.com/p/nixysa
+
+Stars: 5 	 fork: 3 	 updated: 2016-12-12
+----------------------------------------------------
+wheelbarrow
+
+No Description.
+
+Stars: 4 	 fork: 4 	 updated: 2017-07-06
+----------------------------------------------------
+python-atfork
+
+No Description.
+
+Stars: 4 	 fork: 6 	 updated: 2017-09-14
+----------------------------------------------------
+chatbase-python
+
+Integrate your Python application with Chatbase!
+
+Stars: 4 	 fork: 3 	 updated: 2017-10-02
+----------------------------------------------------
+amt-forensics
+
+No Description.
+
+Stars: 4 	 fork: 0 	 updated: 2017-10-24
+----------------------------------------------------
+protocall
+
+protocall is an experimental programming language
+
+Stars: 4 	 fork: 2 	 updated: 2017-01-09
+----------------------------------------------------
+bocado
+
+No Description.
+
+Stars: 4 	 fork: 5 	 updated: 2017-08-19
+----------------------------------------------------
+sprockets
+
+Sprockets is a framework for conformance testing based on state transitions.
+
+Stars: 4 	 fork: 4 	 updated: 2017-10-17
+----------------------------------------------------
+python-cloud-utils
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-08-15
+----------------------------------------------------
+myelin-acorn-electron-hardware
+
+Phillip Pearson's retro hardware projects for the Acorn Electron
+
+Stars: 3 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+chkstream
+
+Checked exception support in Java 8 streams via decorator.
+
+Stars: 3 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+active-learning
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-10-09
+----------------------------------------------------
+VRD
+
+No Description.
+
+Stars: 3 	 fork: 0 	 updated: 2017-10-12
+----------------------------------------------------
+coursebuilder-hello-world-module
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-03-03
+----------------------------------------------------
+election_results_xml_validator
+
+No Description.
+
+Stars: 3 	 fork: 5 	 updated: 2017-06-01
+----------------------------------------------------
+bitutils
+
+scripts to ease working with binary numbers
+
+Stars: 3 	 fork: 0 	 updated: 2017-09-23
+----------------------------------------------------
+gumbel_sinkhorn
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2017-10-01
+----------------------------------------------------
+squires
+
+Automatically exported from code.google.com/p/squires
+
+Stars: 3 	 fork: 1 	 updated: 2017-05-17
+----------------------------------------------------
+terminal-py
+
+Automatically exported from code.google.com/p/terminal-py
+
+Stars: 3 	 fork: 2 	 updated: 2017-07-13
+----------------------------------------------------
+OctoPrint-TemperatureFailsafe
+
+OctoPrint plugin that will execute shell commands if a heater exceeds a failsafe threshold.
+
+Stars: 3 	 fork: 2 	 updated: 2017-08-17
+----------------------------------------------------
+resolver-library
+
+Automatically exported from code.google.com/p/resolver-library
+
+Stars: 2 	 fork: 2 	 updated: 2017-06-22
+----------------------------------------------------
+OctoPrint-HeaterTimeout
+
+OctoPrint Plugin that automatically shuts down heaters after a specified idle timeout.
+
+Stars: 2 	 fork: 0 	 updated: 2017-10-11
+----------------------------------------------------
+stress_transfer
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-10-25
+----------------------------------------------------
+checkers_classic
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+xctestrunner
+
+A executable binary to run prebuilt iOS tests on iOS simulator/real device.
+
+Stars: 2 	 fork: 0 	 updated: 2017-10-16
+----------------------------------------------------
+py-html-contextual-escaping
+
+Automatically exported from code.google.com/p/py-html-contextual-escaping
+
+Stars: 1 	 fork: 2 	 updated: 2017-03-03
+----------------------------------------------------
+wasserstein-dist
+
+tensorflow implementation of the Wasserstein (aka optimal transport) distance
+
+Stars: 1 	 fork: 0 	 updated: 2017-10-18
+----------------------------------------------------
+streetview-publish-client-libraries
+
+No Description.
+
+Stars: 1 	 fork: 1 	 updated: 2017-08-25
+----------------------------------------------------
+tmppy
+
+TMPPy is a subset of Python that can be compiled to C++ meta-functions using the py2tmp compiler.
+
+Stars: 1 	 fork: 0 	 updated: 2017-10-02
+----------------------------------------------------
+request-test
+
+No Description.
+
+Stars: 1 	 fork: 2 	 updated: 2017-03-05
+----------------------------------------------------
+objectfilter
+
+Automatically exported from code.google.com/p/objectfilter
+
+Stars: 1 	 fork: 3 	 updated: 2015-07-10
+----------------------------------------------------
+smilesparser
+
+No Description.
+
+Stars: 1 	 fork: 2 	 updated: 2017-01-12
+----------------------------------------------------
+shipshape-demo
+
+No Description.
+
+Stars: 1 	 fork: 2 	 updated: 2015-10-30
+----------------------------------------------------
+microscopeimagequality
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-09-07
+----------------------------------------------------
+io-captions-gadget
+
+Automatically exported from code.google.com/p/io-captions-gadget
+
+Stars: 0 	 fork: 1 	 updated: 2017-01-17
+----------------------------------------------------
+dcm-video-uploader
+
+Python script to upload video creatives to DCM. The script creates the necessary structure under a provided DCM placement to target each video to a different geo location. One use case is creating dynamic video campaigns 
+
+Stars: 0 	 fork: 3 	 updated: 2017-06-08
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Java(153)
+
+////////////////////////////////////////////////////
+
+
+guava
+
+Google Core Libraries for Java
+
+Stars: 19737 	 fork: 4605 	 updated: 2017-10-25
+----------------------------------------------------
+iosched
+
+The Google I/O 2017 Android App
+
+Stars: 15028 	 fork: 5257 	 updated: 2017-10-25
+----------------------------------------------------
+dagger
+
+A fast dependency injector for Android and Java.
+
+Stars: 8705 	 fork: 1045 	 updated: 2017-10-25
+----------------------------------------------------
+ExoPlayer
+
+An extensible media player for Android
+
+Stars: 8140 	 fork: 2702 	 updated: 2017-10-25
+----------------------------------------------------
+agera
+
+Reactive Programming for Android
+
+Stars: 6821 	 fork: 635 	 updated: 2017-10-25
+----------------------------------------------------
+physical-web
+
+The Physical Web: walk up and use anything
+
+Stars: 5967 	 fork: 720 	 updated: 2017-10-20
+----------------------------------------------------
+guice
+
+Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+
+Stars: 5794 	 fork: 916 	 updated: 2017-10-25
+----------------------------------------------------
+auto
+
+A collection of source code generators for Java.
+
+Stars: 5749 	 fork: 619 	 updated: 2017-10-25
+----------------------------------------------------
+j2objc
+
+A Java to iOS Objective-C translation tool and runtime.
+
+Stars: 4926 	 fork: 669 	 updated: 2017-10-24
+----------------------------------------------------
+android-classyshark
+
+Executables (apk, multi-dex, jar) browser for Android, Java and Kotlin
+
+Stars: 4175 	 fork: 548 	 updated: 2017-10-25
+----------------------------------------------------
+closure-compiler
+
+A JavaScript checker and optimizer.
+
+Stars: 3662 	 fork: 735 	 updated: 2017-10-25
+----------------------------------------------------
+error-prone
+
+Catch common Java mistakes as compile-time errors
+
+Stars: 3066 	 fork: 313 	 updated: 2017-10-25
+----------------------------------------------------
+google-authenticator
+
+Open source version of Google Authenticator (except the Android app)
+
+Stars: 2545 	 fork: 517 	 updated: 2017-10-25
+----------------------------------------------------
+cameraview
+
+Easily integrate Camera features into your Android app
+
+Stars: 2506 	 fork: 495 	 updated: 2017-10-25
+----------------------------------------------------
+grafika
+
+Grafika test app
+
+Stars: 2502 	 fork: 710 	 updated: 2017-10-25
+----------------------------------------------------
+binnavi
+
+BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
+
+Stars: 2248 	 fork: 402 	 updated: 2017-10-25
+----------------------------------------------------
+hover
+
+A floating menu library for Android.
+
+Stars: 2166 	 fork: 186 	 updated: 2017-10-24
+----------------------------------------------------
+wycheproof
+
+Project Wycheproof tests crypto libraries against known attacks.
+
+Stars: 1769 	 fork: 168 	 updated: 2017-10-17
+----------------------------------------------------
+tiger
+
+No Description.
+
+Stars: 1653 	 fork: 106 	 updated: 2017-10-24
+----------------------------------------------------
+google-java-format
+
+Reformats Java source code to comply with Google Java Style.
+
+Stars: 1347 	 fork: 259 	 updated: 2017-10-24
+----------------------------------------------------
+jimfs
+
+An in-memory file system for Java 7+
+
+Stars: 1309 	 fork: 164 	 updated: 2017-10-24
+----------------------------------------------------
+truth
+
+Fluent assertions for Java
+
+Stars: 1178 	 fork: 141 	 updated: 2017-10-25
+----------------------------------------------------
+santa-tracker-android
+
+Ho Ho Ho
+
+Stars: 1112 	 fork: 241 	 updated: 2017-10-24
+----------------------------------------------------
+android-ui-toolkit-demos
+
+No Description.
+
+Stars: 1043 	 fork: 161 	 updated: 2017-10-24
+----------------------------------------------------
+volley
+
+No Description.
+
+Stars: 955 	 fork: 270 	 updated: 2017-10-25
+----------------------------------------------------
+nomulus
+
+Top-level domain name registry service on Google App Engine
+
+Stars: 948 	 fork: 96 	 updated: 2017-10-24
+----------------------------------------------------
+mr4c
+
+No Description.
+
+Stars: 851 	 fork: 225 	 updated: 2017-10-23
+----------------------------------------------------
+firing-range
+
+No Description.
+
+Stars: 827 	 fork: 158 	 updated: 2017-10-23
+----------------------------------------------------
+tink
+
+Tink is a cryptographic library that provides an easy, simple, secure, and agile API for common cryptographic tasks.
+
+Stars: 777 	 fork: 50 	 updated: 2017-10-25
+----------------------------------------------------
+gcm
+
+Google Cloud Messaging - client libraries and sample implementations
+
+Stars: 767 	 fork: 517 	 updated: 2017-10-21
+----------------------------------------------------
+google-http-java-client
+
+Google HTTP Client Library for Java
+
+Stars: 715 	 fork: 261 	 updated: 2017-10-25
+----------------------------------------------------
+FreeBuilder
+
+Automatic generation of the Builder pattern for Java 1.6+
+
+Stars: 646 	 fork: 95 	 updated: 2017-10-23
+----------------------------------------------------
+google-api-java-client
+
+Google APIs Client Library for Java
+
+Stars: 641 	 fork: 377 	 updated: 2017-10-24
+----------------------------------------------------
+google-authenticator-android
+
+Google Authenticator Android app. Opensource version.
+
+Stars: 618 	 fork: 215 	 updated: 2017-10-25
+----------------------------------------------------
+caja
+
+Caja is a tool for safely embedding third party HTML, CSS and JavaScript in your website.
+
+Stars: 596 	 fork: 70 	 updated: 2017-10-22
+----------------------------------------------------
+android-arscblamer
+
+ArscBlamer is a command-line tool that can parse an Android app's resources.arsc file and extract useful, actionable information about its contents
+
+Stars: 547 	 fork: 44 	 updated: 2017-10-23
+----------------------------------------------------
+re2j
+
+linear time regular expression matching in Java
+
+Stars: 545 	 fork: 68 	 updated: 2017-10-25
+----------------------------------------------------
+ringdroid
+
+No Description.
+
+Stars: 441 	 fork: 155 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-java-client-samples
+
+No Description.
+
+Stars: 426 	 fork: 738 	 updated: 2017-10-25
+----------------------------------------------------
+blockly-android
+
+Blockly for Android
+
+Stars: 400 	 fork: 104 	 updated: 2017-10-25
+----------------------------------------------------
+search-samples
+
+Sample code for integrating with Search.
+
+Stars: 398 	 fork: 181 	 updated: 2017-10-24
+----------------------------------------------------
+compile-testing
+
+Testing tools for javac and annotation processors
+
+Stars: 391 	 fork: 68 	 updated: 2017-10-22
+----------------------------------------------------
+caliper
+
+Micro-benchmarking library for Java
+
+Stars: 372 	 fork: 63 	 updated: 2017-10-15
+----------------------------------------------------
+google-oauth-java-client
+
+Google OAuth Client Library for Java
+
+Stars: 341 	 fork: 182 	 updated: 2017-10-25
+----------------------------------------------------
+walt
+
+A device for measuring latency of physical sensors and outputs on phones and computers
+
+Stars: 317 	 fork: 52 	 updated: 2017-10-02
+----------------------------------------------------
+closure-templates
+
+A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements
+
+Stars: 315 	 fork: 99 	 updated: 2017-10-24
+----------------------------------------------------
+conscrypt
+
+Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
+
+Stars: 286 	 fork: 50 	 updated: 2017-10-23
+----------------------------------------------------
+patchfield
+
+Audio infrastructure for Android
+
+Stars: 259 	 fork: 33 	 updated: 2017-10-06
+----------------------------------------------------
+openrtb
+
+OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
+
+Stars: 250 	 fork: 110 	 updated: 2017-10-18
+----------------------------------------------------
+science-journal
+
+Science Journal Android code.
+
+Stars: 233 	 fork: 58 	 updated: 2017-10-24
+----------------------------------------------------
+allocation-instrumenter
+
+A Java agent that rewrites bytecode to instrument allocation sites
+
+Stars: 219 	 fork: 46 	 updated: 2017-10-10
+----------------------------------------------------
+MOE
+
+Make Opensource Easy - tools for synchronizing repositories
+
+Stars: 216 	 fork: 46 	 updated: 2017-10-22
+----------------------------------------------------
+closure-stylesheets
+
+A CSS+ transpiler that lints, optimizes, and I18n-izes
+
+Stars: 213 	 fork: 44 	 updated: 2017-10-23
+----------------------------------------------------
+sagetv
+
+SageTV is a cross-platform networked DVR and media management system
+
+Stars: 193 	 fork: 145 	 updated: 2017-10-11
+----------------------------------------------------
+thread-weaver
+
+A Java framework for testing multithreaded code.
+
+Stars: 167 	 fork: 41 	 updated: 2017-10-25
+----------------------------------------------------
+samba-documents-provider
+
+Access network file shares directly from the Android Downloads/Files app
+
+Stars: 164 	 fork: 22 	 updated: 2017-10-24
+----------------------------------------------------
+gwtmockito
+
+Better GWT unit testing
+
+Stars: 145 	 fork: 44 	 updated: 2017-10-17
+----------------------------------------------------
+gwteventbinder
+
+Making GWT EventBus easy
+
+Stars: 145 	 fork: 32 	 updated: 2017-10-17
+----------------------------------------------------
+copybara
+
+Copybara: A tool for transforming and moving code between repositories.
+
+Stars: 144 	 fork: 33 	 updated: 2017-10-25
+----------------------------------------------------
+openrtb-doubleclick
+
+Utilities for DoubleClick Ad Exchange, including OpenRTB mapping, DoubleClick cryptography, metadata and validation
+
+Stars: 139 	 fork: 56 	 updated: 2017-10-16
+----------------------------------------------------
+s2-geometry-library-java
+
+Automatically exported from code.google.com/p/s2-geometry-library-java
+
+Stars: 138 	 fork: 56 	 updated: 2017-10-25
+----------------------------------------------------
+googletv-android-samples
+
+Source for many GoogleTV Example applications.
+
+Stars: 138 	 fork: 71 	 updated: 2017-10-18
+----------------------------------------------------
+mail-importer
+
+Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+
+Stars: 131 	 fork: 48 	 updated: 2017-10-08
+----------------------------------------------------
+LiquidFunPaint
+
+No Description.
+
+Stars: 127 	 fork: 39 	 updated: 2017-10-20
+----------------------------------------------------
+gtfs-realtime-bindings
+
+Language bindings generated from the GTFS-realtime protocol buffer spec for popular languages.
+
+Stars: 116 	 fork: 53 	 updated: 2017-10-23
+----------------------------------------------------
+gmail-oauth2-tools
+
+Tools and sample code for authenticating to Gmail with OAuth2
+
+Stars: 104 	 fork: 51 	 updated: 2017-10-22
+----------------------------------------------------
+gitiles
+
+A simple browser for Git repositories.
+
+Stars: 104 	 fork: 33 	 updated: 2017-10-24
+----------------------------------------------------
+google-auth-library-java
+
+Open source Auth client library for Java
+
+Stars: 102 	 fork: 68 	 updated: 2017-10-19
+----------------------------------------------------
+gdata-java-client
+
+Automatically exported from code.google.com/p/gdata-java-client
+
+Stars: 93 	 fork: 80 	 updated: 2017-09-23
+----------------------------------------------------
+Accessibility-Test-Framework-for-Android
+
+No Description.
+
+Stars: 81 	 fork: 26 	 updated: 2017-10-20
+----------------------------------------------------
+talkback
+
+No Description.
+
+Stars: 78 	 fork: 60 	 updated: 2017-10-19
+----------------------------------------------------
+codeu_project_2017
+
+CODEU is a program created by Google to develop the skills of future software engineers. This project is a playground for those looking to develop their coding and software engineering skills.
+
+Stars: 72 	 fork: 109 	 updated: 2017-09-14
+----------------------------------------------------
+gps-measurement-tools
+
+No Description.
+
+Stars: 69 	 fork: 46 	 updated: 2017-10-16
+----------------------------------------------------
+webview-local-server
+
+No Description.
+
+Stars: 65 	 fork: 29 	 updated: 2017-09-28
+----------------------------------------------------
+CallBuilder
+
+Make a Java builder by defining one function.
+
+Stars: 61 	 fork: 12 	 updated: 2017-10-15
+----------------------------------------------------
+depan
+
+DepAn is a direct manipulation tool for visualization, analysis, and refactoring of dependencies in large applications.
+
+Stars: 57 	 fork: 17 	 updated: 2017-09-26
+----------------------------------------------------
+domaintest
+
+Domain Test service for new TLDs.
+
+Stars: 55 	 fork: 14 	 updated: 2017-07-27
+----------------------------------------------------
+Refaster
+
+No Description.
+
+Stars: 51 	 fork: 8 	 updated: 2017-09-21
+----------------------------------------------------
+picview-for-android
+
+No Description.
+
+Stars: 47 	 fork: 31 	 updated: 2017-10-15
+----------------------------------------------------
+simple-pedometer
+
+No Description.
+
+Stars: 47 	 fork: 32 	 updated: 2017-10-13
+----------------------------------------------------
+rich-test-results
+
+Understand a test failure
+
+Stars: 46 	 fork: 11 	 updated: 2017-07-24
+----------------------------------------------------
+mug
+
+No Description.
+
+Stars: 45 	 fork: 7 	 updated: 2017-10-18
+----------------------------------------------------
+cordova-plugin-browsertab
+
+A Cordova plugin that provides an interface to in-app browser tabs that exist on some mobile platforms, such as SFSafariViewController on iOS and CustomTabs on Android.
+
+Stars: 43 	 fork: 27 	 updated: 2017-10-10
+----------------------------------------------------
+acai
+
+Testing library for JUnit4 and Guice.
+
+Stars: 41 	 fork: 14 	 updated: 2017-09-02
+----------------------------------------------------
+cdep
+
+CDep is a decentralized native package dependency manager with a focus on Android. Runs on Windows, Linux, and MacOS.
+
+Stars: 41 	 fork: 10 	 updated: 2017-10-24
+----------------------------------------------------
+account-provisioning-for-google-apps
+
+No Description.
+
+Stars: 39 	 fork: 15 	 updated: 2017-10-24
+----------------------------------------------------
+cloud-cup-android
+
+Firebase Android client of the a multi device game
+
+Stars: 39 	 fork: 21 	 updated: 2017-09-29
+----------------------------------------------------
+wear-sensors
+
+No Description.
+
+Stars: 38 	 fork: 11 	 updated: 2017-09-29
+----------------------------------------------------
+retrofit
+
+Type-safe REST client for Android and Java by Square, Inc.
+
+Stars: 38 	 fork: 11 	 updated: 2017-10-24
+----------------------------------------------------
+favcolor-android
+
+No Description.
+
+Stars: 36 	 fork: 15 	 updated: 2017-10-15
+----------------------------------------------------
+identity-toolkit-java-client
+
+Google Identity Toolkit client library for Java
+
+Stars: 32 	 fork: 33 	 updated: 2016-11-23
+----------------------------------------------------
+java-thread-sanitizer
+
+No Description.
+
+Stars: 31 	 fork: 21 	 updated: 2017-10-21
+----------------------------------------------------
+sensor-data-collection-library
+
+No Description.
+
+Stars: 30 	 fork: 13 	 updated: 2017-10-13
+----------------------------------------------------
+jsinterop-generator
+
+Generates Java annotated with JsInterop from JavaScript extern sources
+
+Stars: 28 	 fork: 4 	 updated: 2017-10-20
+----------------------------------------------------
+play-work
+
+No Description.
+
+Stars: 28 	 fork: 23 	 updated: 2017-09-19
+----------------------------------------------------
+easybundler
+
+A code generator for Android Bundles
+
+Stars: 27 	 fork: 12 	 updated: 2017-10-13
+----------------------------------------------------
+surveys
+
+No Description.
+
+Stars: 26 	 fork: 17 	 updated: 2017-09-20
+----------------------------------------------------
+wear-screeninfo
+
+Android Wear ScreenInfo
+
+Stars: 25 	 fork: 5 	 updated: 2017-06-17
+----------------------------------------------------
+google-visualization-java
+
+Automatically exported from code.google.com/p/google-visualization-java
+
+Stars: 24 	 fork: 26 	 updated: 2017-10-21
+----------------------------------------------------
+git-appraise-eclipse
+
+Distributed code review for Eclipse
+
+Stars: 24 	 fork: 7 	 updated: 2017-05-22
+----------------------------------------------------
+climb-tracker
+
+Climbing tracker app for Android and Android Wear, using Firebase
+
+Stars: 24 	 fork: 6 	 updated: 2017-09-19
+----------------------------------------------------
+TouchTime
+
+Tells the time through vibration patterns on an Android smartwatch.
+
+Stars: 23 	 fork: 7 	 updated: 2017-10-24
+----------------------------------------------------
+error-prone-javac
+
+A mirror of the OpenJDK langtools repository
+
+Stars: 22 	 fork: 11 	 updated: 2017-05-05
+----------------------------------------------------
+dart2java
+
+No Description.
+
+Stars: 22 	 fork: 6 	 updated: 2017-10-05
+----------------------------------------------------
+gulava
+
+Relational programming library for Java.
+
+Stars: 21 	 fork: 5 	 updated: 2017-10-12
+----------------------------------------------------
+safe-html-types
+
+Security contract types
+
+Stars: 21 	 fork: 6 	 updated: 2017-10-08
+----------------------------------------------------
+protobuf-dt
+
+No Description.
+
+Stars: 20 	 fork: 10 	 updated: 2017-10-21
+----------------------------------------------------
+gwt-charts
+
+Automatically exported from code.google.com/p/gwt-charts
+
+Stars: 18 	 fork: 18 	 updated: 2016-09-09
+----------------------------------------------------
+watchpresenter
+
+Pass your slides on Google Drive using your phone or watch
+
+Stars: 18 	 fork: 4 	 updated: 2017-05-08
+----------------------------------------------------
+play-apk-expansion
+
+No Description.
+
+Stars: 15 	 fork: 8 	 updated: 2017-10-14
+----------------------------------------------------
+heartbleed-burp-extension
+
+No Description.
+
+Stars: 14 	 fork: 6 	 updated: 2017-08-31
+----------------------------------------------------
+translation-cards
+
+Note: Future development of Translation Cards migrated to https://github.com/translation-cards
+
+Stars: 14 	 fork: 1 	 updated: 2017-09-08
+----------------------------------------------------
+schemaorg-java
+
+No Description.
+
+Stars: 14 	 fork: 8 	 updated: 2017-10-02
+----------------------------------------------------
+brailleback
+
+No Description.
+
+Stars: 12 	 fork: 8 	 updated: 2017-10-09
+----------------------------------------------------
+play-licensing
+
+No Description.
+
+Stars: 12 	 fork: 7 	 updated: 2017-10-09
+----------------------------------------------------
+windowtester
+
+Automatically exported from code.google.com/p/windowtester
+
+Stars: 11 	 fork: 7 	 updated: 2017-09-22
+----------------------------------------------------
+bamboo-soy
+
+An intellij plugin supporting Closure Template language (Soy)
+
+Stars: 11 	 fork: 4 	 updated: 2017-09-12
+----------------------------------------------------
+zarathustra
+
+No Description.
+
+Stars: 11 	 fork: 6 	 updated: 2017-01-24
+----------------------------------------------------
+android-studio-check
+
+No Description.
+
+Stars: 9 	 fork: 4 	 updated: 2017-08-18
+----------------------------------------------------
+ideal
+
+Experimental metaprogramming framework
+
+Stars: 8 	 fork: 5 	 updated: 2017-10-12
+----------------------------------------------------
+reagera
+
+Minimal implementation of predictable state in Java, inspired by Elm and Redux.
+
+Stars: 7 	 fork: 1 	 updated: 2017-09-12
+----------------------------------------------------
+ios-device-control
+
+No Description.
+
+Stars: 7 	 fork: 1 	 updated: 2017-10-19
+----------------------------------------------------
+certificate-transparency-java
+
+No Description.
+
+Stars: 7 	 fork: 7 	 updated: 2017-08-19
+----------------------------------------------------
+cloud-reporting
+
+No Description.
+
+Stars: 6 	 fork: 5 	 updated: 2017-09-09
+----------------------------------------------------
+easy-gwt-mock
+
+An EasyMock-like Mocking Framework for Google Web Toolkit
+
+Stars: 6 	 fork: 4 	 updated: 2017-10-24
+----------------------------------------------------
+codeu_coding_assessment_2017
+
+This project allows students to demonstrate their coding skills before entering CodeU. Students will complete this JSON-lite object and JSON-lite parser.
+
+Stars: 6 	 fork: 113 	 updated: 2017-08-19
+----------------------------------------------------
+mobly-bundled-snippets
+
+Snippets to allow Mobly tests to control Android devices by exposing a simplified Android API.
+
+Stars: 6 	 fork: 12 	 updated: 2017-09-27
+----------------------------------------------------
+jsontoken
+
+Automatically exported from code.google.com/p/jsontoken
+
+Stars: 6 	 fork: 9 	 updated: 2017-06-28
+----------------------------------------------------
+kiwi-solver
+
+Kiwi is a minimalist and extendable Constraint Programming (CP) solver.
+
+Stars: 6 	 fork: 1 	 updated: 2017-09-25
+----------------------------------------------------
+webauthndemo
+
+No Description.
+
+Stars: 6 	 fork: 8 	 updated: 2017-10-04
+----------------------------------------------------
+picasa-app-demo
+
+No Description.
+
+Stars: 5 	 fork: 7 	 updated: 2015-09-16
+----------------------------------------------------
+nfc-smart-tag
+
+Automatically exported from code.google.com/p/nfc-smart-tag
+
+Stars: 5 	 fork: 5 	 updated: 2016-07-08
+----------------------------------------------------
+codeu_coding_assessment_b_2017
+
+This project allows students to demonstrate their coding skills by implementing a component of a larger system.
+
+Stars: 5 	 fork: 53 	 updated: 2017-08-19
+----------------------------------------------------
+spline
+
+A sample app that demonstrates Android's data binding library in the context of a vector drawing application.
+
+Stars: 5 	 fork: 1 	 updated: 2017-09-15
+----------------------------------------------------
+simplecfg
+
+Simple CFG module for ExtendJ
+
+Stars: 4 	 fork: 4 	 updated: 2016-06-17
+----------------------------------------------------
+ytstatistics-demo
+
+Automatically exported from code.google.com/p/ytstatistics-demo
+
+Stars: 4 	 fork: 4 	 updated: 2016-06-05
+----------------------------------------------------
+devtools-driver
+
+No Description.
+
+Stars: 4 	 fork: 0 	 updated: 2017-10-10
+----------------------------------------------------
+AppUpdateTrackerLib
+
+No Description.
+
+Stars: 4 	 fork: 5 	 updated: 2017-08-18
+----------------------------------------------------
+martian-java
+
+Configure a Martian Proxy from Java
+
+Stars: 4 	 fork: 4 	 updated: 2016-11-16
+----------------------------------------------------
+turbine
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2017-07-28
+----------------------------------------------------
+us-altgr-intl
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-04-11
+----------------------------------------------------
+devicehub
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-08-18
+----------------------------------------------------
+ferret
+
+No Description.
+
+Stars: 3 	 fork: 6 	 updated: 2017-05-28
+----------------------------------------------------
+java-sourcetools
+
+Automatically exported from code.google.com/p/java-sourcetools
+
+Stars: 2 	 fork: 5 	 updated: 2016-11-28
+----------------------------------------------------
+wear-displaylock
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2016-12-17
+----------------------------------------------------
+MOE-py
+
+A system for synchronizing repositories
+
+Stars: 2 	 fork: 6 	 updated: 2016-09-17
+----------------------------------------------------
+intellij-cmdline-vcs-plugin
+
+No Description.
+
+Stars: 1 	 fork: 1 	 updated: 2016-02-27
+----------------------------------------------------
+intellij-protocol-buffer-editor
+
+Automatically exported from code.google.com/p/intellij-protocol-buffer-editor
+
+Stars: 1 	 fork: 2 	 updated: 2017-03-03
+----------------------------------------------------
+opentest4j
+
+Open Test Alliance for the JVM
+
+Stars: 1 	 fork: 3 	 updated: 2016-11-28
+----------------------------------------------------
+infra-structured-map
+
+No Description.
+
+Stars: 0 	 fork: 1 	 updated: 2017-03-10
+----------------------------------------------------
+keytransparency-java
+
+The Java Client for Key Transparency
+
+Stars: 0 	 fork: 3 	 updated: 2017-08-24
+----------------------------------------------------
+testrunner-rosemary
+
+No Description.
+
+Stars: 0 	 fork: 1 	 updated: 2017-07-13
+----------------------------------------------------
+YetAnotherChatApp
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-10-20
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+C++(140)
+
+////////////////////////////////////////////////////
+
+
+protobuf
+
+Protocol Buffers - Google's data interchange format
+
+Stars: 20943 	 fork: 6192 	 updated: 2017-10-25
+----------------------------------------------------
+leveldb
+
+LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
+Stars: 11297 	 fork: 2856 	 updated: 2017-10-25
+----------------------------------------------------
+guetzli
+
+Perceptual JPEG encoder
+
+Stars: 10403 	 fork: 840 	 updated: 2017-10-25
+----------------------------------------------------
+flatbuffers
+
+Memory Efficient Serialization Library
+
+Stars: 8408 	 fork: 1307 	 updated: 2017-10-25
+----------------------------------------------------
+googletest
+
+Google Test
+
+Stars: 6333 	 fork: 2758 	 updated: 2017-10-25
+----------------------------------------------------
+lmctfy
+
+lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
+
+Stars: 3067 	 fork: 218 	 updated: 2017-10-23
+----------------------------------------------------
+liquidfun
+
+2D physics engine for games
+
+Stars: 3053 	 fork: 415 	 updated: 2017-10-25
+----------------------------------------------------
+snappy
+
+A fast compressor/decompressor
+
+Stars: 2261 	 fork: 410 	 updated: 2017-10-25
+----------------------------------------------------
+re2
+
+RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+
+Stars: 2116 	 fork: 341 	 updated: 2017-10-24
+----------------------------------------------------
+or-tools
+
+Google's Operations Research tools
+
+Stars: 2012 	 fork: 456 	 updated: 2017-10-24
+----------------------------------------------------
+zopfli
+
+Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
+
+Stars: 1977 	 fork: 190 	 updated: 2017-10-24
+----------------------------------------------------
+benchmark
+
+A microbenchmark support library
+
+Stars: 1949 	 fork: 388 	 updated: 2017-10-25
+----------------------------------------------------
+draco
+
+Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+
+Stars: 1737 	 fork: 218 	 updated: 2017-10-25
+----------------------------------------------------
+skia
+
+Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+
+Stars: 1708 	 fork: 414 	 updated: 2017-10-24
+----------------------------------------------------
+glog
+
+C++ implementation of the Google logging module
+
+Stars: 1683 	 fork: 763 	 updated: 2017-10-25
+----------------------------------------------------
+ion
+
+Ion
+
+Stars: 1296 	 fork: 71 	 updated: 2017-10-20
+----------------------------------------------------
+butteraugli
+
+butteraugli estimates the psychovisual difference between two images
+
+Stars: 1201 	 fork: 68 	 updated: 2017-10-19
+----------------------------------------------------
+bloaty
+
+Bloaty McBloatface: a size profiler for binaries
+
+Stars: 1200 	 fork: 54 	 updated: 2017-10-25
+----------------------------------------------------
+jsonnet
+
+Jsonnet - The data templating language
+
+Stars: 951 	 fork: 125 	 updated: 2017-10-25
+----------------------------------------------------
+fruit
+
+Fruit, a dependency injection framework for C++
+
+Stars: 848 	 fork: 118 	 updated: 2017-10-21
+----------------------------------------------------
+kythe
+
+Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
+
+Stars: 845 	 fork: 92 	 updated: 2017-10-21
+----------------------------------------------------
+mathfu
+
+C++ math library developed primarily for games focused on simplicity and efficiency.
+
+Stars: 762 	 fork: 106 	 updated: 2017-10-24
+----------------------------------------------------
+proto-quic
+
+No Description.
+
+Stars: 756 	 fork: 145 	 updated: 2017-10-23
+----------------------------------------------------
+angle
+
+A conformant OpenGL ES implementation for Windows, Mac and Linux.
+
+Stars: 719 	 fork: 202 	 updated: 2017-10-25
+----------------------------------------------------
+sentencepiece
+
+Unsupervised text tokenizer for Neural Network-based text generation.
+
+Stars: 665 	 fork: 70 	 updated: 2017-10-25
+----------------------------------------------------
+souper
+
+A superoptimizer for LLVM IR
+
+Stars: 658 	 fork: 57 	 updated: 2017-10-19
+----------------------------------------------------
+lullaby
+
+A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
+
+Stars: 654 	 fork: 81 	 updated: 2017-10-25
+----------------------------------------------------
+rowhammer-test
+
+Test DRAM for bit flips caused by the rowhammer problem
+
+Stars: 643 	 fork: 134 	 updated: 2017-10-22
+----------------------------------------------------
+omaha
+
+Google Update for Windows
+
+Stars: 576 	 fork: 217 	 updated: 2017-10-24
+----------------------------------------------------
+clif
+
+Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.
+
+Stars: 568 	 fork: 60 	 updated: 2017-10-23
+----------------------------------------------------
+pik
+
+No Description.
+
+Stars: 493 	 fork: 29 	 updated: 2017-10-24
+----------------------------------------------------
+highwayhash
+
+Fast strong hash functions: SipHash/HighwayHash
+
+Stars: 487 	 fork: 71 	 updated: 2017-10-19
+----------------------------------------------------
+gemmlowp
+
+Low-precision matrix multiplication
+
+Stars: 485 	 fork: 166 	 updated: 2017-10-24
+----------------------------------------------------
+UIforETW
+
+User interface for recording and managing ETW traces
+
+Stars: 479 	 fork: 59 	 updated: 2017-10-24
+----------------------------------------------------
+certificate-transparency
+
+Auditing for TLS certificates.
+
+Stars: 462 	 fork: 170 	 updated: 2017-10-24
+----------------------------------------------------
+kati
+
+An experimental GNU make clone
+
+Stars: 440 	 fork: 44 	 updated: 2017-10-20
+----------------------------------------------------
+pienoon
+
+Multiplayer party game where you can throw pies at your friends.
+
+Stars: 422 	 fork: 108 	 updated: 2017-10-15
+----------------------------------------------------
+double-conversion
+
+Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+
+Stars: 357 	 fork: 91 	 updated: 2017-10-23
+----------------------------------------------------
+mozc
+
+Mozc - a Japanese Input Method Editor designed for multi-platform
+
+Stars: 356 	 fork: 73 	 updated: 2017-10-23
+----------------------------------------------------
+shaderc
+
+A collection of tools, libraries and tests for shader compilation.
+
+Stars: 355 	 fork: 62 	 updated: 2017-10-25
+----------------------------------------------------
+woff2
+
+No Description.
+
+Stars: 342 	 fork: 65 	 updated: 2017-10-23
+----------------------------------------------------
+breakpad
+
+Mirror of Google Breakpad project
+
+Stars: 314 	 fork: 161 	 updated: 2017-10-24
+----------------------------------------------------
+shaka-packager
+
+A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
+
+Stars: 308 	 fork: 121 	 updated: 2017-10-13
+----------------------------------------------------
+VoltAir
+
+No Description.
+
+Stars: 275 	 fork: 76 	 updated: 2017-10-20
+----------------------------------------------------
+flatui
+
+Efficient Immediate Mode UI for Games
+
+Stars: 269 	 fork: 24 	 updated: 2017-10-18
+----------------------------------------------------
+swiftshader
+
+SwiftShader is a high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs. Its goal is to provide hardware independence for advanced 3D graphics.
+
+Stars: 260 	 fork: 47 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-cpp-client
+
+The core C++ SK for using Google APIs
+
+Stars: 246 	 fork: 77 	 updated: 2017-10-24
+----------------------------------------------------
+googlemock
+
+Google Mock
+
+Stars: 245 	 fork: 144 	 updated: 2017-10-24
+----------------------------------------------------
+cctz
+
+CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.
+
+Stars: 244 	 fork: 55 	 updated: 2017-10-25
+----------------------------------------------------
+binexport
+
+An IDA Pro plugin for exporting disassemblies into BinNavi databases and to Protocol Buffers
+
+Stars: 219 	 fork: 59 	 updated: 2017-10-25
+----------------------------------------------------
+farmhash
+
+Automatically exported from code.google.com/p/farmhash
+
+Stars: 213 	 fork: 36 	 updated: 2017-10-22
+----------------------------------------------------
+cpp-netlib
+
+The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.
+
+Stars: 203 	 fork: 44 	 updated: 2017-10-12
+----------------------------------------------------
+zooshi
+
+Multi-platform game where you feed well dressed animals with sushi
+
+Stars: 201 	 fork: 28 	 updated: 2017-10-15
+----------------------------------------------------
+etc2comp
+
+No Description.
+
+Stars: 186 	 fork: 27 	 updated: 2017-10-20
+----------------------------------------------------
+syzygy
+
+Syzygy Transformation Toolchain
+
+Stars: 166 	 fork: 41 	 updated: 2017-10-24
+----------------------------------------------------
+vulkan-cpp-library
+
+No Description.
+
+Stars: 164 	 fork: 20 	 updated: 2017-10-22
+----------------------------------------------------
+deepboost
+
+No Description.
+
+Stars: 151 	 fork: 56 	 updated: 2017-10-14
+----------------------------------------------------
+sling
+
+SLING - A natural language frame semantics parser
+
+Stars: 135 	 fork: 22 	 updated: 2017-10-25
+----------------------------------------------------
+corgi
+
+C++ entity-component system
+
+Stars: 122 	 fork: 20 	 updated: 2017-10-15
+----------------------------------------------------
+autofdo
+
+AutoFDO
+
+Stars: 121 	 fork: 31 	 updated: 2017-10-13
+----------------------------------------------------
+motive
+
+A cross-platform, memory efficient, and performant animation system written in C++
+
+Stars: 108 	 fork: 22 	 updated: 2017-10-16
+----------------------------------------------------
+pawn
+
+Extract BIOS firmware from Intel-based workstations and laptops
+
+Stars: 105 	 fork: 21 	 updated: 2017-10-15
+----------------------------------------------------
+spherical-harmonics
+
+Spherical harmonics library 
+
+Stars: 104 	 fork: 20 	 updated: 2017-10-21
+----------------------------------------------------
+fplbase
+
+Cross platform low level rendering and I/O library
+
+Stars: 104 	 fork: 26 	 updated: 2017-10-18
+----------------------------------------------------
+EXEgesis
+
+No Description.
+
+Stars: 104 	 fork: 13 	 updated: 2017-10-22
+----------------------------------------------------
+redgrep
+
+♥ Janusz Brzozowski
+
+Stars: 96 	 fork: 9 	 updated: 2017-09-26
+----------------------------------------------------
+gjstest
+
+A fast javascript unit testing framework that runs on the V8 engine.
+
+Stars: 95 	 fork: 31 	 updated: 2017-09-22
+----------------------------------------------------
+cld3
+
+No Description.
+
+Stars: 93 	 fork: 21 	 updated: 2017-10-23
+----------------------------------------------------
+REAPER
+
+No Description.
+
+Stars: 93 	 fork: 29 	 updated: 2017-10-19
+----------------------------------------------------
+pindrop
+
+C++ cross-platform game audio library
+
+Stars: 92 	 fork: 19 	 updated: 2017-10-10
+----------------------------------------------------
+functionsimsearch
+
+Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.
+
+Stars: 84 	 fork: 11 	 updated: 2017-10-24
+----------------------------------------------------
+supersonic
+
+Supersonic is an ultra-fast, column oriented query engine library written in C++
+
+Stars: 83 	 fork: 31 	 updated: 2017-09-28
+----------------------------------------------------
+google-drive-shell-extension
+
+Google Drive Shell Extension is a Shell Namespace Extension for Microsoft Windows. It creates a virtual folder on My Computer that allows the user to interact with his Google Drive account transparently through Windows Explorer.
+
+Stars: 81 	 fork: 34 	 updated: 2017-10-17
+----------------------------------------------------
+gipfeli
+
+No Description.
+
+Stars: 80 	 fork: 9 	 updated: 2017-10-10
+----------------------------------------------------
+ohmu
+
+Compiler intermediate language for static analysis.
+
+Stars: 74 	 fork: 13 	 updated: 2017-09-30
+----------------------------------------------------
+open-vcdiff
+
+An encoder/decoder for the VCDIFF (RFC3284) format
+
+Stars: 72 	 fork: 32 	 updated: 2017-10-23
+----------------------------------------------------
+aff4
+
+The Advanced Forensic File Format
+
+Stars: 72 	 fork: 30 	 updated: 2017-10-25
+----------------------------------------------------
+xpaf
+
+No Description.
+
+Stars: 64 	 fork: 20 	 updated: 2017-10-19
+----------------------------------------------------
+breadboard
+
+C++ graph based event system
+
+Stars: 64 	 fork: 12 	 updated: 2017-10-15
+----------------------------------------------------
+xrtl
+
+Cross-platform Real-Time Rendering Library
+
+Stars: 59 	 fork: 7 	 updated: 2017-10-20
+----------------------------------------------------
+symboliclink-testing-tools
+
+No Description.
+
+Stars: 57 	 fork: 26 	 updated: 2017-09-05
+----------------------------------------------------
+mysql-protobuf
+
+No Description.
+
+Stars: 56 	 fork: 21 	 updated: 2017-10-18
+----------------------------------------------------
+nxt-standalone
+
+ANGLE-like library for Chromium's next-generation Web graphics API prototype.
+
+Stars: 51 	 fork: 13 	 updated: 2017-10-22
+----------------------------------------------------
+libcxx
+
+libc++; cloned from http://llvm.org/git/libcxx.git
+
+Stars: 46 	 fork: 26 	 updated: 2017-10-22
+----------------------------------------------------
+securemessage
+
+No Description.
+
+Stars: 44 	 fork: 11 	 updated: 2017-10-23
+----------------------------------------------------
+embed-dart-vm
+
+No Description.
+
+Stars: 43 	 fork: 13 	 updated: 2017-10-19
+----------------------------------------------------
+infact
+
+Provides a lightweight interpreter and factory for dynamically creating C++ objects at runtime.
+
+Stars: 40 	 fork: 10 	 updated: 2017-10-07
+----------------------------------------------------
+scene_lab
+
+Embedded World Editor Library for Game Developers
+
+Stars: 40 	 fork: 9 	 updated: 2017-10-03
+----------------------------------------------------
+universal-dash-transmuxer
+
+No Description.
+
+Stars: 39 	 fork: 12 	 updated: 2017-10-02
+----------------------------------------------------
+szl
+
+A compiler and runtime for the Sawzall language
+
+Stars: 39 	 fork: 8 	 updated: 2017-10-24
+----------------------------------------------------
+libkml
+
+Reference implementation of OGC KML 2.2
+
+Stars: 37 	 fork: 36 	 updated: 2017-10-11
+----------------------------------------------------
+compact_enc_det
+
+compact_enc_det - Compact Encoding Detection
+
+Stars: 35 	 fork: 11 	 updated: 2017-10-24
+----------------------------------------------------
+sensei
+
+Logistic regression engine for medium-sized data
+
+Stars: 34 	 fork: 6 	 updated: 2017-06-20
+----------------------------------------------------
+autopiper
+
+No Description.
+
+Stars: 33 	 fork: 9 	 updated: 2017-08-19
+----------------------------------------------------
+image-compression
+
+No Description.
+
+Stars: 33 	 fork: 10 	 updated: 2017-10-12
+----------------------------------------------------
+libprotobuf-mutator
+
+No Description.
+
+Stars: 33 	 fork: 11 	 updated: 2017-10-19
+----------------------------------------------------
+perf_data_converter
+
+Tool to convert Linux perf files to the profile.proto format used by pprof
+
+Stars: 33 	 fork: 11 	 updated: 2017-10-14
+----------------------------------------------------
+bgu
+
+No Description.
+
+Stars: 33 	 fork: 13 	 updated: 2017-10-23
+----------------------------------------------------
+capsicum-test
+
+Test suite for Capsicum
+
+Stars: 30 	 fork: 15 	 updated: 2017-10-13
+----------------------------------------------------
+mt
+
+Modern, minimalist, minty-fresh terminal
+
+Stars: 28 	 fork: 7 	 updated: 2017-10-08
+----------------------------------------------------
+capture-thread
+
+Framework for loggers, tracers, and mockers in multithreaded C++ programs.
+
+Stars: 27 	 fork: 9 	 updated: 2017-10-24
+----------------------------------------------------
+sawbuck
+
+Automatically exported from code.google.com/p/sawbuck
+
+Stars: 26 	 fork: 11 	 updated: 2017-10-08
+----------------------------------------------------
+cpp-frp
+
+Static functional reactive programming in C++14
+
+Stars: 22 	 fork: 7 	 updated: 2017-10-24
+----------------------------------------------------
+glslang
+
+Khronos reference front-end for GLSL and ESSL
+
+Stars: 22 	 fork: 10 	 updated: 2017-10-14
+----------------------------------------------------
+piex
+
+Preview Image Extractor (PIEX)
+
+Stars: 21 	 fork: 12 	 updated: 2017-10-08
+----------------------------------------------------
+mysql
+
+Automatically exported from code.google.com/p/google-mysql
+
+Stars: 20 	 fork: 19 	 updated: 2017-09-12
+----------------------------------------------------
+libgep
+
+Generic, Protobuf-Based Client-Server Protocol
+
+Stars: 18 	 fork: 11 	 updated: 2017-08-26
+----------------------------------------------------
+crc32c
+
+CRC32C implementation with support for CPU-specific acceleration instructions
+
+Stars: 18 	 fork: 3 	 updated: 2017-10-18
+----------------------------------------------------
+pkcs11test
+
+PKCS#11 Test Suite
+
+Stars: 18 	 fork: 14 	 updated: 2017-10-10
+----------------------------------------------------
+ndash
+
+No Description.
+
+Stars: 18 	 fork: 6 	 updated: 2017-10-24
+----------------------------------------------------
+ndprbrd
+
+NDP Routing Bridge Daemon
+
+Stars: 17 	 fork: 6 	 updated: 2017-10-18
+----------------------------------------------------
+refr
+
+A framework for building reranking models.
+
+Stars: 16 	 fork: 4 	 updated: 2017-06-22
+----------------------------------------------------
+morphie
+
+A tool for data analysis with graphs.
+
+Stars: 16 	 fork: 3 	 updated: 2017-09-20
+----------------------------------------------------
+hashing-demo
+
+Sample implementation of a proposed C++ hashing framework
+
+Stars: 16 	 fork: 8 	 updated: 2017-01-24
+----------------------------------------------------
+DirectXShaderCompiler
+
+This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
+
+Stars: 16 	 fork: 6 	 updated: 2017-10-22
+----------------------------------------------------
+maketrace
+
+No Description.
+
+Stars: 15 	 fork: 6 	 updated: 2017-10-20
+----------------------------------------------------
+rct-automation
+
+Radio automation software (not an official google product)
+
+Stars: 13 	 fork: 7 	 updated: 2017-09-21
+----------------------------------------------------
+dart-gl
+
+OpenGL ES 2.0 Dart Native Extension
+
+Stars: 12 	 fork: 6 	 updated: 2017-08-23
+----------------------------------------------------
+clerk
+
+Clerk is an open-source IPFIX generator using https://github.com/google/testimony for packet sniffing
+
+Stars: 11 	 fork: 4 	 updated: 2017-10-14
+----------------------------------------------------
+elfling
+
+No Description.
+
+Stars: 11 	 fork: 7 	 updated: 2017-03-02
+----------------------------------------------------
+vulkan_test_applications
+
+No Description.
+
+Stars: 11 	 fork: 7 	 updated: 2017-10-12
+----------------------------------------------------
+filesystem-proposal
+
+Boost Filesystem Library with modifications for the C++ standards committee proposal
+
+Stars: 10 	 fork: 9 	 updated: 2017-10-14
+----------------------------------------------------
+topdown-btg-preordering
+
+Top-Down BTG-based Preordering
+
+Stars: 7 	 fork: 1 	 updated: 2017-01-13
+----------------------------------------------------
+berrydb
+
+No Description.
+
+Stars: 7 	 fork: 5 	 updated: 2017-10-24
+----------------------------------------------------
+varstruct
+
+No Description.
+
+Stars: 7 	 fork: 3 	 updated: 2017-10-25
+----------------------------------------------------
+oboe
+
+Oboe is a C++ library which makes it easy to build high-performance audio apps on Android.
+
+Stars: 7 	 fork: 0 	 updated: 2017-10-25
+----------------------------------------------------
+dart-glfw
+
+Dart bindings for GLFW, a multiplatform library for creating windows with OpenGL contexts.
+
+Stars: 6 	 fork: 4 	 updated: 2017-10-03
+----------------------------------------------------
+shell-encryption
+
+No Description.
+
+Stars: 6 	 fork: 0 	 updated: 2017-09-14
+----------------------------------------------------
+metrosvg
+
+No Description.
+
+Stars: 6 	 fork: 3 	 updated: 2017-09-29
+----------------------------------------------------
+anodyne
+
+No Description.
+
+Stars: 6 	 fork: 1 	 updated: 2017-08-18
+----------------------------------------------------
+qrisp
+
+No Description.
+
+Stars: 6 	 fork: 5 	 updated: 2016-11-18
+----------------------------------------------------
+effcee
+
+No Description.
+
+Stars: 6 	 fork: 6 	 updated: 2017-05-22
+----------------------------------------------------
+cncmicroscope-code
+
+No Description.
+
+Stars: 5 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+prochlo
+
+No Description.
+
+Stars: 3 	 fork: 0 	 updated: 2017-10-22
+----------------------------------------------------
+render-timing-for-unity
+
+GPU time metric for Unity apps (currently limited to Android/GLES)
+
+Stars: 3 	 fork: 0 	 updated: 2017-10-17
+----------------------------------------------------
+emre
+
+No Description.
+
+Stars: 2 	 fork: 1 	 updated: 2017-03-02
+----------------------------------------------------
+hops
+
+Automatically exported from code.google.com/p/hops
+
+Stars: 1 	 fork: 1 	 updated: 2016-07-16
+----------------------------------------------------
+xmpmeta
+
+No Description.
+
+Stars: 1 	 fork: 3 	 updated: 2017-08-13
+----------------------------------------------------
+vk_callback_swapchain
+
+No Description.
+
+Stars: 0 	 fork: 3 	 updated: 2017-06-15
+----------------------------------------------------
+devise-evaluation
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-10-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Go(119)
+
+////////////////////////////////////////////////////
+
+
+grumpy
+
+Grumpy is a Python to Go source code transcompiler and runtime.
+
+Stars: 8123 	 fork: 450 	 updated: 2017-10-25
+----------------------------------------------------
+cadvisor
+
+Analyzes resource usage and performance characteristics of running containers.
+
+Stars: 6327 	 fork: 956 	 updated: 2017-10-25
+----------------------------------------------------
+seesaw
+
+Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
+
+Stars: 4378 	 fork: 394 	 updated: 2017-10-24
+----------------------------------------------------
+gxui
+
+An experimental Go cross platform UI library.
+
+Stars: 3879 	 fork: 267 	 updated: 2017-10-25
+----------------------------------------------------
+git-appraise
+
+Distributed code review system for Git repos
+
+Stars: 3616 	 fork: 107 	 updated: 2017-10-25
+----------------------------------------------------
+go-github
+
+Go library for accessing the GitHub API
+
+Stars: 2972 	 fork: 704 	 updated: 2017-10-25
+----------------------------------------------------
+battery-historian
+
+Battery Historian is a tool to analyze battery consumers using Android "bugreport" files.
+
+Stars: 2877 	 fork: 528 	 updated: 2017-10-25
+----------------------------------------------------
+gops
+
+A tool to list and diagnose Go processes currently running on your system
+
+Stars: 1909 	 fork: 107 	 updated: 2017-10-25
+----------------------------------------------------
+gopacket
+
+Provides packet processing capabilities for Go
+
+Stars: 1515 	 fork: 302 	 updated: 2017-10-25
+----------------------------------------------------
+novm
+
+Experimental KVM-based VMM, written in Go.
+
+Stars: 1326 	 fork: 92 	 updated: 2017-10-23
+----------------------------------------------------
+syzkaller
+
+syzkaller is an unsupervised, coverage-guided kernel fuzzer
+
+Stars: 1235 	 fork: 247 	 updated: 2017-10-25
+----------------------------------------------------
+netstack
+
+IPv4 and IPv6 userland network stack
+
+Stars: 1177 	 fork: 81 	 updated: 2017-10-25
+----------------------------------------------------
+keytransparency
+
+A transparent and secure way to look up public keys.
+
+Stars: 1174 	 fork: 77 	 updated: 2017-10-24
+----------------------------------------------------
+google-api-go-client
+
+Auto-generated Google APIs for Go
+
+Stars: 1160 	 fork: 313 	 updated: 2017-10-25
+----------------------------------------------------
+codesearch
+
+Fast, indexed regexp search over large file trees
+
+Stars: 1142 	 fork: 153 	 updated: 2017-10-23
+----------------------------------------------------
+stenographer
+
+Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.  Discussion/announcements at stenographer@googlegroups.com
+
+Stars: 1046 	 fork: 108 	 updated: 2017-10-23
+----------------------------------------------------
+btree
+
+No Description.
+
+Stars: 938 	 fork: 103 	 updated: 2017-10-23
+----------------------------------------------------
+mtail
+
+extract whitebox monitoring data from application logs for collection in a timeseries database
+
+Stars: 927 	 fork: 89 	 updated: 2017-10-25
+----------------------------------------------------
+pprof
+
+pprof is a tool for visualization and analysis of profiling data
+
+Stars: 862 	 fork: 99 	 updated: 2017-10-24
+----------------------------------------------------
+periph
+
+Go·Hardware·Lean
+
+Stars: 788 	 fork: 42 	 updated: 2017-10-23
+----------------------------------------------------
+badwolf
+
+Temporal graph store abstraction layer.
+
+Stars: 697 	 fork: 44 	 updated: 2017-10-17
+----------------------------------------------------
+skylark
+
+Skylark in Go: the Skylark configuration language, implemented in Go
+
+Stars: 677 	 fork: 29 	 updated: 2017-10-24
+----------------------------------------------------
+trillian
+
+Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees.
+
+Stars: 672 	 fork: 96 	 updated: 2017-10-23
+----------------------------------------------------
+jsonapi
+
+jsonapi.org style payload serializer and deserializer
+
+Stars: 626 	 fork: 91 	 updated: 2017-10-24
+----------------------------------------------------
+skicka
+
+Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
+
+Stars: 569 	 fork: 59 	 updated: 2017-10-25
+----------------------------------------------------
+martian
+
+Martian is a library for building custom HTTP/S proxies
+
+Stars: 546 	 fork: 80 	 updated: 2017-10-15
+----------------------------------------------------
+go-querystring
+
+go-querystring is Go library for encoding structs into URL query parameters.
+
+Stars: 519 	 fork: 68 	 updated: 2017-10-25
+----------------------------------------------------
+zoekt
+
+Fast trigram based code search  
+
+Stars: 443 	 fork: 23 	 updated: 2017-10-17
+----------------------------------------------------
+cloud-print-connector
+
+Google Cloud Print Connector
+
+Stars: 438 	 fork: 104 	 updated: 2017-10-23
+----------------------------------------------------
+gapid
+
+Graphics API Debugger
+
+Stars: 437 	 fork: 81 	 updated: 2017-10-25
+----------------------------------------------------
+gofuzz
+
+Fuzz testing for go.
+
+Stars: 354 	 fork: 32 	 updated: 2017-10-17
+----------------------------------------------------
+uuid
+
+No Description.
+
+Stars: 337 	 fork: 42 	 updated: 2017-10-24
+----------------------------------------------------
+go-cmp
+
+Package for comparing Go values in tests
+
+Stars: 327 	 fork: 7 	 updated: 2017-10-22
+----------------------------------------------------
+fchan-go
+
+Experimental channel implementation
+
+Stars: 317 	 fork: 15 	 updated: 2017-10-20
+----------------------------------------------------
+cloudprober
+
+An active monitoring software to detect failures before your customers do.
+
+Stars: 310 	 fork: 12 	 updated: 2017-10-24
+----------------------------------------------------
+shenzhen-go
+
+Experimental visual Go environment
+
+Stars: 308 	 fork: 17 	 updated: 2017-10-11
+----------------------------------------------------
+godepq
+
+No Description.
+
+Stars: 285 	 fork: 13 	 updated: 2017-09-12
+----------------------------------------------------
+go-microservice-helpers
+
+A collection of handy snippets that simplify creation of GRPC servers and clients
+
+Stars: 269 	 fork: 9 	 updated: 2017-10-19
+----------------------------------------------------
+acme
+
+A simple ACME command line tool without 3rd party deps!
+
+Stars: 265 	 fork: 33 	 updated: 2017-10-21
+----------------------------------------------------
+netboot
+
+Packages and utilities for network booting
+
+Stars: 217 	 fork: 47 	 updated: 2017-10-23
+----------------------------------------------------
+subcommands
+
+Go subcommand library.
+
+Stars: 207 	 fork: 16 	 updated: 2017-10-18
+----------------------------------------------------
+easypki
+
+Creating a certificate authority the easy way
+
+Stars: 192 	 fork: 28 	 updated: 2017-10-22
+----------------------------------------------------
+tcpproxy
+
+Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
+
+Stars: 181 	 fork: 16 	 updated: 2017-10-24
+----------------------------------------------------
+shipshape
+
+Program analysis platform
+
+Stars: 175 	 fork: 19 	 updated: 2017-10-04
+----------------------------------------------------
+safebrowsing
+
+Safe Browsing API Go Client
+
+Stars: 167 	 fork: 49 	 updated: 2017-10-24
+----------------------------------------------------
+blueprint
+
+No Description.
+
+Stars: 165 	 fork: 32 	 updated: 2017-10-24
+----------------------------------------------------
+logger
+
+Cross platform Go logging library.
+
+Stars: 133 	 fork: 16 	 updated: 2017-10-23
+----------------------------------------------------
+der-ascii
+
+A reversible DER and BER pretty-printer.
+
+Stars: 121 	 fork: 14 	 updated: 2017-09-25
+----------------------------------------------------
+goexpect
+
+Expect for Go
+
+Stars: 115 	 fork: 6 	 updated: 2017-10-24
+----------------------------------------------------
+hilbert
+
+Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
+
+Stars: 105 	 fork: 13 	 updated: 2017-10-25
+----------------------------------------------------
+todo-tracks
+
+Web dashboard for tracking the TODOs in a Git repo
+
+Stars: 91 	 fork: 15 	 updated: 2017-09-25
+----------------------------------------------------
+election-au-2016
+
+Source code for the Australian Election 2016 visualisation
+
+Stars: 77 	 fork: 20 	 updated: 2017-09-10
+----------------------------------------------------
+go-tpm
+
+No Description.
+
+Stars: 67 	 fork: 14 	 updated: 2017-09-20
+----------------------------------------------------
+addlicense
+
+A program which ensures source code files have copyright license headers by scanning directory patterns recursively
+
+Stars: 66 	 fork: 10 	 updated: 2017-10-11
+----------------------------------------------------
+skia-buildbot
+
+paper-material
+
+Stars: 62 	 fork: 32 	 updated: 2017-10-23
+----------------------------------------------------
+go-genproto
+
+No Description.
+
+Stars: 61 	 fork: 24 	 updated: 2017-10-20
+----------------------------------------------------
+goterm
+
+Go Terminal library with PTY support and colors
+
+Stars: 61 	 fork: 6 	 updated: 2017-10-11
+----------------------------------------------------
+go-jsonnet
+
+No Description.
+
+Stars: 58 	 fork: 16 	 updated: 2017-10-24
+----------------------------------------------------
+testimony
+
+No Description.
+
+Stars: 52 	 fork: 11 	 updated: 2017-09-10
+----------------------------------------------------
+identity-toolkit-go-client
+
+Google identity Toolkit client library for Go
+
+Stars: 50 	 fork: 16 	 updated: 2017-05-26
+----------------------------------------------------
+gousb
+
+gousb provides low-level interface for accessing USB devices
+
+Stars: 48 	 fork: 13 	 updated: 2017-10-21
+----------------------------------------------------
+fscrypt
+
+Go tool for managing Linux filesystem encryption
+
+Stars: 46 	 fork: 8 	 updated: 2017-10-23
+----------------------------------------------------
+navc
+
+C code indexer using language semantic from clang
+
+Stars: 45 	 fork: 8 	 updated: 2017-08-27
+----------------------------------------------------
+huproxy
+
+No Description.
+
+Stars: 41 	 fork: 5 	 updated: 2017-10-06
+----------------------------------------------------
+vectorio
+
+Library for Go (golang) to implement writev system call (not an official Google product)
+
+Stars: 41 	 fork: 2 	 updated: 2017-10-22
+----------------------------------------------------
+go-webdav
+
+No Description.
+
+Stars: 39 	 fork: 14 	 updated: 2017-09-25
+----------------------------------------------------
+git-pull-request-mirror
+
+Mirror pull requests into git-appraise
+
+Stars: 38 	 fork: 2 	 updated: 2017-10-23
+----------------------------------------------------
+font-go
+
+No Description.
+
+Stars: 37 	 fork: 0 	 updated: 2017-09-10
+----------------------------------------------------
+pyrios
+
+No Description.
+
+Stars: 37 	 fork: 10 	 updated: 2017-08-16
+----------------------------------------------------
+tflow2
+
+This software is currently maintained at https://github.com/taktv6/tflow2
+
+Stars: 36 	 fork: 10 	 updated: 2017-09-23
+----------------------------------------------------
+shlex
+
+Automatically exported from code.google.com/p/go-shlex
+
+Stars: 35 	 fork: 11 	 updated: 2017-10-15
+----------------------------------------------------
+weasel
+
+A simple frontend (App Engine app) that serves content from a Google Cloud Storage (GCS) bucket
+
+Stars: 34 	 fork: 7 	 updated: 2017-08-19
+----------------------------------------------------
+licenseclassifier
+
+A License Classifier
+
+Stars: 34 	 fork: 7 	 updated: 2017-10-23
+----------------------------------------------------
+squidwarden
+
+Frontend to squid to manage ACLs
+
+Stars: 31 	 fork: 5 	 updated: 2017-10-17
+----------------------------------------------------
+gofountain
+
+No Description.
+
+Stars: 29 	 fork: 8 	 updated: 2017-07-25
+----------------------------------------------------
+slowfs
+
+A FUSE filesystem written in Go to simulate physical media for testing purposes
+
+Stars: 27 	 fork: 2 	 updated: 2017-08-24
+----------------------------------------------------
+slothfs
+
+No Description.
+
+Stars: 25 	 fork: 2 	 updated: 2017-10-20
+----------------------------------------------------
+certificate-transparency-go
+
+Auditing for TLS certificates, Go code. 
+
+Stars: 24 	 fork: 19 	 updated: 2017-10-12
+----------------------------------------------------
+googet
+
+GooGet package manager
+
+Stars: 22 	 fork: 10 	 updated: 2017-08-28
+----------------------------------------------------
+self-hosted-rss-to-email
+
+No Description.
+
+Stars: 22 	 fork: 10 	 updated: 2017-08-19
+----------------------------------------------------
+link022
+
+Link022 - an open WiFi access point
+
+Stars: 21 	 fork: 3 	 updated: 2017-10-23
+----------------------------------------------------
+godata
+
+No Description.
+
+Stars: 21 	 fork: 2 	 updated: 2017-10-11
+----------------------------------------------------
+web-bsd-hunt
+
+Port of the networked real-time multi-player 2D maze war BSD game "Hunt" to Google App Engine and modern web browsers
+
+Stars: 20 	 fork: 6 	 updated: 2017-08-09
+----------------------------------------------------
+credstore
+
+Credstore is a centralized auth server
+
+Stars: 19 	 fork: 2 	 updated: 2017-10-19
+----------------------------------------------------
+tiff
+
+Go package for working with the file structure of a TIFF.
+
+Stars: 19 	 fork: 5 	 updated: 2017-08-28
+----------------------------------------------------
+readahead
+
+readahead is a package that provides readers that enable concurrent reads from seekable or compressed files
+
+Stars: 18 	 fork: 1 	 updated: 2017-10-11
+----------------------------------------------------
+mawfs
+
+No Description.
+
+Stars: 17 	 fork: 3 	 updated: 2017-10-17
+----------------------------------------------------
+go-intervals
+
+A golang library for set operations on intervals, such as time ranges.
+
+Stars: 16 	 fork: 2 	 updated: 2017-10-25
+----------------------------------------------------
+orderedcode
+
+No Description.
+
+Stars: 15 	 fork: 2 	 updated: 2017-10-18
+----------------------------------------------------
+fury
+
+No Description.
+
+Stars: 14 	 fork: 2 	 updated: 2017-08-23
+----------------------------------------------------
+traceout
+
+No Description.
+
+Stars: 13 	 fork: 5 	 updated: 2017-03-30
+----------------------------------------------------
+helm-broker
+
+No Description.
+
+Stars: 13 	 fork: 3 	 updated: 2017-07-25
+----------------------------------------------------
+cameraraw
+
+No Description.
+
+Stars: 13 	 fork: 3 	 updated: 2017-09-17
+----------------------------------------------------
+git-phabricator-mirror
+
+Mirror source code metadata between git-notes and Phabricator
+
+Stars: 12 	 fork: 5 	 updated: 2017-10-20
+----------------------------------------------------
+go-tika
+
+Go package for using Apache Tika
+
+Stars: 12 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+go-circuits
+
+No Description.
+
+Stars: 12 	 fork: 3 	 updated: 2017-06-01
+----------------------------------------------------
+gonids
+
+gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available at gonids@googlegroups.com
+
+Stars: 12 	 fork: 3 	 updated: 2017-10-06
+----------------------------------------------------
+http2preload
+
+A Go package for manipulating HTTP/2 preload, supporting Google App Engine.
+
+Stars: 12 	 fork: 2 	 updated: 2017-02-17
+----------------------------------------------------
+calblink
+
+Blink(1) monitor for Google Calendar
+
+Stars: 11 	 fork: 1 	 updated: 2017-10-11
+----------------------------------------------------
+gojiraw
+
+GO JIffy-fast RAW-draw
+
+Stars: 11 	 fork: 2 	 updated: 2017-10-11
+----------------------------------------------------
+marmot
+
+Marmot workflow execution engine
+
+Stars: 10 	 fork: 0 	 updated: 2017-10-12
+----------------------------------------------------
+gnxi
+
+gNXI Tools - gRPC Network Management/Operations Interface Tools
+
+Stars: 10 	 fork: 4 	 updated: 2017-10-18
+----------------------------------------------------
+ct-hackday-schwag
+
+May 7th, 2014 Certificate Transparency Hack Day 
+
+Stars: 7 	 fork: 3 	 updated: 2017-07-16
+----------------------------------------------------
+concourse-resources
+
+Resources for Concourse
+
+Stars: 5 	 fork: 2 	 updated: 2017-10-13
+----------------------------------------------------
+microdhcpd
+
+DHCP server that talks GRPC
+
+Stars: 4 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+inverting-proxy
+
+Reverse proxy that inverts the direction of traffic
+
+Stars: 4 	 fork: 1 	 updated: 2017-10-03
+----------------------------------------------------
+pubkeystore
+
+SSH Pubkey Registry
+
+Stars: 4 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+vmregistry
+
+VM Registry — manage and provision your VMs
+
+Stars: 4 	 fork: 3 	 updated: 2017-09-04
+----------------------------------------------------
+okay
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2017-07-22
+----------------------------------------------------
+ubntools
+
+Tools to do fun things with ubiquity gear
+
+Stars: 3 	 fork: 1 	 updated: 2017-06-29
+----------------------------------------------------
+edf
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2017-05-15
+----------------------------------------------------
+drone-firebase
+
+Drone plugin to deploy a project to Firebase.
+
+Stars: 2 	 fork: 6 	 updated: 2017-02-17
+----------------------------------------------------
+argtail-check
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-09-14
+----------------------------------------------------
+docopt-scripts
+
+No Description.
+
+Stars: 0 	 fork: 2 	 updated: 2015-10-18
+----------------------------------------------------
+grr_go_client
+
+No Description.
+
+Stars: 0 	 fork: 2 	 updated: 2017-06-22
+----------------------------------------------------
+streaming_hdp
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-10-20
+----------------------------------------------------
+lvmd
+
+LVMd — GRPC Wrapper for LVM 
+
+Stars: 0 	 fork: 2 	 updated: 2017-07-08
+----------------------------------------------------
+grr_go_api_client
+
+No Description.
+
+Stars: 0 	 fork: 2 	 updated: 2017-06-15
+----------------------------------------------------
+metaserver
+
+EC2/NoColud-compatible metadata server
+
+Stars: 0 	 fork: 2 	 updated: 2017-10-20
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+JavaScript(116)
+
+////////////////////////////////////////////////////
+
+
+traceur-compiler
+
+Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+
+Stars: 7453 	 fork: 542 	 updated: 2017-10-25
+----------------------------------------------------
+lovefield
+
+Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
+
+Stars: 5645 	 fork: 311 	 updated: 2017-10-25
+----------------------------------------------------
+blockly
+
+The web-based visual programming editor.
+
+Stars: 3830 	 fork: 1368 	 updated: 2017-10-25
+----------------------------------------------------
+end-to-end
+
+End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP and OTR)
+
+Stars: 3561 	 fork: 270 	 updated: 2017-10-24
+----------------------------------------------------
+tamperchrome
+
+Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).
+
+Stars: 3182 	 fork: 131 	 updated: 2017-10-23
+----------------------------------------------------
+code-prettify
+
+Automatically exported from code.google.com/p/google-code-prettify
+
+Stars: 3173 	 fork: 542 	 updated: 2017-10-25
+----------------------------------------------------
+incremental-dom
+
+An in-place DOM diffing library
+
+Stars: 2744 	 fork: 128 	 updated: 2017-10-24
+----------------------------------------------------
+tracing-framework
+
+Web Tracing Framework libraries and extensions.
+
+Stars: 2437 	 fork: 192 	 updated: 2017-10-20
+----------------------------------------------------
+closure-library
+
+Google's common JavaScript library
+
+Stars: 2410 	 fork: 681 	 updated: 2017-10-25
+----------------------------------------------------
+shaka-player
+
+JavaScript player library / DASH client / MSE-EME player
+
+Stars: 1602 	 fork: 339 	 updated: 2017-10-25
+----------------------------------------------------
+closure-compiler-js
+
+Package for the JS version of closure-compiler for use via NPM
+
+Stars: 1486 	 fork: 57 	 updated: 2017-10-24
+----------------------------------------------------
+earthenterprise
+
+Google Earth Enterprise - Open Source
+
+Stars: 1264 	 fork: 394 	 updated: 2017-10-24
+----------------------------------------------------
+open-location-code
+
+Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.
+
+Stars: 928 	 fork: 132 	 updated: 2017-10-25
+----------------------------------------------------
+google-apps-script-samples
+
+Sample code for Google Apps Script, a cloud-based scripting service for Google Apps
+
+Stars: 885 	 fork: 427 	 updated: 2017-10-25
+----------------------------------------------------
+songbird
+
+Spatial Audio Encoding on the Web
+
+Stars: 812 	 fork: 45 	 updated: 2017-10-25
+----------------------------------------------------
+jsaction
+
+JsAction is a small event delegation library that decouples event binding from the code that can handle the event.
+
+Stars: 719 	 fork: 45 	 updated: 2017-10-20
+----------------------------------------------------
+eslint-config-google
+
+ESLint shareable config for the Google JavaScript style guide
+
+Stars: 656 	 fork: 62 	 updated: 2017-10-24
+----------------------------------------------------
+module-server
+
+module-server
+
+Stars: 466 	 fork: 36 	 updated: 2017-07-18
+----------------------------------------------------
+vsaq
+
+VSAQ is an interactive questionnaire application to assess the security programs of third parties.
+
+Stars: 444 	 fork: 84 	 updated: 2017-10-20
+----------------------------------------------------
+blockly-games
+
+Games for tomorrow's programmers.
+
+Stars: 423 	 fork: 232 	 updated: 2017-10-19
+----------------------------------------------------
+marzipano
+
+A 360° media viewer for the modern web.
+
+Stars: 391 	 fork: 195 	 updated: 2017-10-24
+----------------------------------------------------
+u2f-ref-code
+
+U2F reference implementations
+
+Stars: 370 	 fork: 130 	 updated: 2017-10-24
+----------------------------------------------------
+pepper.js
+
+Pepper applications as Native Client or JavaScript
+
+Stars: 317 	 fork: 48 	 updated: 2017-10-02
+----------------------------------------------------
+kratu
+
+No Description.
+
+Stars: 277 	 fork: 30 	 updated: 2017-10-10
+----------------------------------------------------
+palette.js
+
+Script for generating colour palettes for use with graphs, charts and cartography.
+
+Stars: 261 	 fork: 43 	 updated: 2017-10-18
+----------------------------------------------------
+earthengine-api
+
+Python and JavaScript bindings for calling the Earth Engine API.
+
+Stars: 253 	 fork: 123 	 updated: 2017-10-18
+----------------------------------------------------
+radioreceiver
+
+An application to listen to broadcast stereo FM and AM radio from your Chrome browser or your ChromeBook computer using a $15 USB digital TV tuner.
+
+Stars: 236 	 fork: 49 	 updated: 2017-10-25
+----------------------------------------------------
+santa-tracker-web
+
+Ho Ho Ho
+
+Stars: 225 	 fork: 64 	 updated: 2017-10-21
+----------------------------------------------------
+coding-with-chrome
+
+An Educational IDE showing off various Google EDU technologies.
+
+Stars: 221 	 fork: 78 	 updated: 2017-10-21
+----------------------------------------------------
+data-layer-helper
+
+JavaScript library for working with dataLayer message queues.
+
+Stars: 191 	 fork: 47 	 updated: 2017-10-03
+----------------------------------------------------
+instant-hangouts
+
+Easily add Google+ Hangouts to any web page.
+
+Stars: 184 	 fork: 43 	 updated: 2017-10-07
+----------------------------------------------------
+password-alert
+
+A Chrome Extension to help protect against phishing attacks.
+
+Stars: 174 	 fork: 40 	 updated: 2017-10-24
+----------------------------------------------------
+tie
+
+No Description.
+
+Stars: 173 	 fork: 38 	 updated: 2017-10-25
+----------------------------------------------------
+wicked-good-xpath
+
+Pure JS implementation of the DOM Level 3 XPath specification
+
+Stars: 151 	 fork: 34 	 updated: 2017-10-16
+----------------------------------------------------
+canvas-5-polyfill
+
+HTML 5 Canvas Polyfill
+
+Stars: 140 	 fork: 34 	 updated: 2017-10-21
+----------------------------------------------------
+ot-crdt-papers
+
+No Description.
+
+Stars: 125 	 fork: 11 	 updated: 2017-10-23
+----------------------------------------------------
+sketch2ae
+
+Editable After Effects layers from Sketch artboards
+
+Stars: 110 	 fork: 8 	 updated: 2017-10-25
+----------------------------------------------------
+closure-compiler-npm
+
+Package for managing and documenting closure-compiler for use via npm
+
+Stars: 110 	 fork: 27 	 updated: 2017-10-22
+----------------------------------------------------
+tsviewdb
+
+High-performance storage and graphing web service for time-series of time-series.
+
+Stars: 109 	 fork: 18 	 updated: 2017-07-06
+----------------------------------------------------
+audion
+
+Audion (Web Audio Inspector) is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time and lets users inspect nodes.
+
+Stars: 97 	 fork: 6 	 updated: 2017-10-24
+----------------------------------------------------
+turing-doodle
+
+No Description.
+
+Stars: 95 	 fork: 47 	 updated: 2017-10-14
+----------------------------------------------------
+concatenate.js
+
+No Description.
+
+Stars: 92 	 fork: 15 	 updated: 2017-10-07
+----------------------------------------------------
+chromeos-filesystems
+
+Additional file system providers for Chrome OS
+
+Stars: 82 	 fork: 24 	 updated: 2017-10-22
+----------------------------------------------------
+openhtf
+
+The open-source hardware testing framework.
+
+Stars: 78 	 fork: 40 	 updated: 2017-10-20
+----------------------------------------------------
+chicago-brick
+
+Software that displays content on a multi-node video wall.
+
+Stars: 63 	 fork: 14 	 updated: 2017-10-12
+----------------------------------------------------
+inspectorspacetime
+
+Inject motion specs into reference video to become an engineer's best friend
+
+Stars: 58 	 fork: 1 	 updated: 2017-10-23
+----------------------------------------------------
+systemjs
+
+A minimal System loader
+
+Stars: 51 	 fork: 13 	 updated: 2017-10-17
+----------------------------------------------------
+devtoolsExtended
+
+devtoolsExtended: Extended Chrome Devtools in a Chrome Extension
+
+Stars: 49 	 fork: 15 	 updated: 2017-10-02
+----------------------------------------------------
+extra-keyboards-for-chrome-os
+
+Extra keyboard layouts and input methods for Chrome OS
+
+Stars: 49 	 fork: 31 	 updated: 2017-09-14
+----------------------------------------------------
+service-worker-detector
+
+This extension detects if a website registers a Service Worker.
+
+Stars: 49 	 fork: 4 	 updated: 2017-10-12
+----------------------------------------------------
+html-quiz
+
+A stand-alone, HTML+JavaScript quiz script.
+
+Stars: 48 	 fork: 34 	 updated: 2017-08-19
+----------------------------------------------------
+chained-promise
+
+Functional programming tools for recurring promises
+
+Stars: 42 	 fork: 6 	 updated: 2017-10-21
+----------------------------------------------------
+ezgantt
+
+ezGantt main
+
+Stars: 40 	 fork: 5 	 updated: 2017-10-18
+----------------------------------------------------
+dorusu-js
+
+gRPC for Node.js in JavaScript
+
+Stars: 39 	 fork: 11 	 updated: 2017-10-16
+----------------------------------------------------
+closure-builder
+
+NPM based Closure build system to easily compile Soy template files together with Closure JavaScript files without the need to configure anything. 
+
+Stars: 38 	 fork: 12 	 updated: 2017-08-30
+----------------------------------------------------
+page-timer
+
+A personal time-tracking Chrome extension
+
+Stars: 37 	 fork: 11 	 updated: 2017-10-18
+----------------------------------------------------
+amp-pwa-demo
+
+A simple, dependency-free blog that uses a Progressive Web App (PWA) to show Accellerated Mobile Pages (AMP).
+
+Stars: 37 	 fork: 11 	 updated: 2017-10-22
+----------------------------------------------------
+qpp
+
+Querypoint Debugging Prototype
+
+Stars: 36 	 fork: 4 	 updated: 2017-07-19
+----------------------------------------------------
+appengine-codiad
+
+Codiad(Cloud IDE) on Google App Engine
+
+Stars: 34 	 fork: 16 	 updated: 2017-08-23
+----------------------------------------------------
+csp-evaluator
+
+No Description.
+
+Stars: 33 	 fork: 4 	 updated: 2017-09-30
+----------------------------------------------------
+indexable-pwa-samples
+
+A sample ExpressJS PWA that explores and demonstrates the best practices for implementing a PWA in regards to indexability of content.
+
+Stars: 32 	 fork: 7 	 updated: 2017-10-07
+----------------------------------------------------
+beautiful-audio-editor
+
+An experimental audio editor that runs on JavaScript and the Web Audio API.
+
+Stars: 30 	 fork: 4 	 updated: 2017-10-18
+----------------------------------------------------
+tern-closure
+
+A Tern plugin adding Closure support.
+
+Stars: 30 	 fork: 12 	 updated: 2017-10-20
+----------------------------------------------------
+crisis-info-hub
+
+No Description.
+
+Stars: 29 	 fork: 8 	 updated: 2017-09-08
+----------------------------------------------------
+chrome-language-immersion
+
+Experience a new language while you browse the web.
+
+Stars: 29 	 fork: 18 	 updated: 2017-09-28
+----------------------------------------------------
+identity-toolkit-node-client
+
+Google Identity Toolkit client library for Node.js
+
+Stars: 25 	 fork: 15 	 updated: 2017-09-02
+----------------------------------------------------
+wwgc
+
+viewer profile generator for "Works with Google Cardboard"
+
+Stars: 25 	 fork: 10 	 updated: 2017-01-07
+----------------------------------------------------
+googlecrisismap
+
+Create, publish, and share maps by combining layers from anywhere on the web.
+
+Stars: 23 	 fork: 13 	 updated: 2017-09-26
+----------------------------------------------------
+geovelo
+
+No Description.
+
+Stars: 20 	 fork: 5 	 updated: 2017-07-26
+----------------------------------------------------
+node-gtoken
+
+:key: Google Auth Service Account Tokens for Node.js 
+
+Stars: 19 	 fork: 11 	 updated: 2017-09-27
+----------------------------------------------------
+Chrome.Docs
+
+Temporary documentation for developer features in the Chrome beta, canary, and dev channels.
+
+Stars: 19 	 fork: 4 	 updated: 2017-08-19
+----------------------------------------------------
+cloud-cup
+
+No Description.
+
+Stars: 18 	 fork: 4 	 updated: 2017-08-19
+----------------------------------------------------
+generator-goro
+
+No Description.
+
+Stars: 18 	 fork: 6 	 updated: 2017-09-03
+----------------------------------------------------
+chord
+
+A framework for developers to create cross-device wearable interaction by scripting.
+
+Stars: 16 	 fork: 1 	 updated: 2017-05-17
+----------------------------------------------------
+stijl
+
+Unified code review dashboard.
+
+Stars: 16 	 fork: 5 	 updated: 2017-09-28
+----------------------------------------------------
+dualhttp
+
+Render your page with cached data, then fetch up-to-date data from server and update the page.
+
+Stars: 16 	 fork: 3 	 updated: 2017-10-01
+----------------------------------------------------
+jscin
+
+Automatically exported from code.google.com/p/jscin
+
+Stars: 16 	 fork: 9 	 updated: 2017-09-24
+----------------------------------------------------
+FakeMaker
+
+Devtool ext. to create DOM 'fake' for JS benchmarks 
+
+Stars: 15 	 fork: 7 	 updated: 2017-09-30
+----------------------------------------------------
+crx2app
+
+No Description.
+
+Stars: 14 	 fork: 8 	 updated: 2017-07-06
+----------------------------------------------------
+ChannelPlate
+
+JavaScript library for postMessage over MessageChannel
+
+Stars: 14 	 fork: 6 	 updated: 2017-08-19
+----------------------------------------------------
+blockly-devtools
+
+Tools for Blockly app developers to help build custom blocks.
+
+Stars: 13 	 fork: 12 	 updated: 2017-09-21
+----------------------------------------------------
+indexed-db-as-promised
+
+A thin wrapper around IndexedDB, making it much more pleasant
+
+Stars: 12 	 fork: 2 	 updated: 2017-08-02
+----------------------------------------------------
+eslint-closure
+
+ESLint Plugin and Config for the Google JavaScript Style Guide
+
+Stars: 12 	 fork: 7 	 updated: 2017-10-21
+----------------------------------------------------
+Safelight
+
+Safelight is a web application that aids in developing Halide programs. It currently works for x86-64 Linux and Mac OS machines running the PNaCl binary distribution of Halide.
+
+Stars: 11 	 fork: 5 	 updated: 2017-04-24
+----------------------------------------------------
+epr
+
+No Description.
+
+Stars: 11 	 fork: 3 	 updated: 2017-07-19
+----------------------------------------------------
+github-owners-bot
+
+No Description.
+
+Stars: 10 	 fork: 4 	 updated: 2017-08-14
+----------------------------------------------------
+eme_logger
+
+No Description.
+
+Stars: 10 	 fork: 1 	 updated: 2017-09-28
+----------------------------------------------------
+gmailsnooze
+
+No Description.
+
+Stars: 9 	 fork: 4 	 updated: 2017-10-16
+----------------------------------------------------
+last-fm-dashboard
+
+visualize last.fm scrobbles over time
+
+Stars: 9 	 fork: 7 	 updated: 2017-02-17
+----------------------------------------------------
+chatbase-node
+
+Quickly integrate your Node.js chatbot with Chatbase Analytics
+
+Stars: 9 	 fork: 3 	 updated: 2017-10-19
+----------------------------------------------------
+google-p12-pem
+
+Convert Google .p12 keys to .pem keys.
+
+Stars: 8 	 fork: 8 	 updated: 2017-08-08
+----------------------------------------------------
+prerender-test
+
+No Description.
+
+Stars: 8 	 fork: 5 	 updated: 2017-07-06
+----------------------------------------------------
+automation-inspector
+
+No Description.
+
+Stars: 7 	 fork: 2 	 updated: 2017-10-06
+----------------------------------------------------
+eventid-js
+
+Monotonically increasing per machine, globally unique eventids for JavaScript
+
+Stars: 7 	 fork: 5 	 updated: 2017-09-20
+----------------------------------------------------
+virtualdesktops-extension
+
+No Description.
+
+Stars: 7 	 fork: 6 	 updated: 2017-06-24
+----------------------------------------------------
+chrome-opt-out-extension
+
+DEPRECATED: Keep My Opt-Outs. Replaced by Protect My Choices.
+
+Stars: 6 	 fork: 5 	 updated: 2017-08-19
+----------------------------------------------------
+voyager
+
+Voyager is a Chrome app designed to connect learners with educational, inspirational, and aspirational content from around the world.
+
+Stars: 6 	 fork: 4 	 updated: 2017-03-13
+----------------------------------------------------
+testRunner
+
+testRunner
+
+Stars: 6 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+asset-check
+
+Check your .well-known/assetlinks.json file on the cli
+
+Stars: 6 	 fork: 2 	 updated: 2017-10-03
+----------------------------------------------------
+agata
+
+A simple UI layer for visualizing Google Analytics v4 hits on Android apps
+
+Stars: 6 	 fork: 3 	 updated: 2017-08-18
+----------------------------------------------------
+pagespeed-inslides
+
+HTML5 Slide Deck Generator Tool Based on the PageSpeed Insights API
+
+Stars: 6 	 fork: 2 	 updated: 2017-08-25
+----------------------------------------------------
+everythingisconnected
+
+A Wikidata puzzle game
+
+Stars: 6 	 fork: 1 	 updated: 2017-08-26
+----------------------------------------------------
+voter-info-tool
+
+Automatically exported from code.google.com/p/voter-info-tool
+
+Stars: 5 	 fork: 1 	 updated: 2017-02-17
+----------------------------------------------------
+o3dtoydefense
+
+Automatically exported from code.google.com/p/o3dtoydefense
+
+Stars: 4 	 fork: 1 	 updated: 2017-07-17
+----------------------------------------------------
+percy-node
+
+Utilities for visual regression testing in node based testing setups (like Protractor) for use with percy.io
+
+Stars: 4 	 fork: 2 	 updated: 2017-10-10
+----------------------------------------------------
+codename-mvsv
+
+Automatically exported from code.google.com/p/codename-mvsv
+
+Stars: 4 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+gde-speakersbureau
+
+No Description.
+
+Stars: 3 	 fork: 5 	 updated: 2017-02-17
+----------------------------------------------------
+ds-trix-addon
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-10-18
+----------------------------------------------------
+node-nest
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2017-02-17
+----------------------------------------------------
+dbm-lineitem-copier
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-10-23
+----------------------------------------------------
+kythe-cloud9
+
+A kythe plugin for cloud9 IDE.
+
+Stars: 2 	 fork: 0 	 updated: 2017-02-17
+----------------------------------------------------
+trix-auto-complete
+
+Plugin for autocomplete using trix editor
+
+Stars: 2 	 fork: 0 	 updated: 2017-09-27
+----------------------------------------------------
+adapt-googleanalytics
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2017-08-18
+----------------------------------------------------
+tritious
+
+No Description.
+
+Stars: 1 	 fork: 1 	 updated: 2017-02-17
+----------------------------------------------------
+amp-client-id-library
+
+No Description.
+
+Stars: 0 	 fork: 4 	 updated: 2017-09-25
+----------------------------------------------------
+functions-demo
+
+No Description.
+
+Stars: 0 	 fork: 2 	 updated: 2017-05-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Other(72)
+
+////////////////////////////////////////////////////
+
+
+deepdream
+
+No Description.
+
+Stars: 10630 	 fork: 2655 	 updated: 2017-10-25
+----------------------------------------------------
+bbr
+
+No Description.
+
+Stars: 1729 	 fork: 194 	 updated: 2017-10-25
+----------------------------------------------------
+inception
+
+No Description.
+
+Stars: 718 	 fork: 133 	 updated: 2017-10-25
+----------------------------------------------------
+trace-viewer
+
+No Description.
+
+Stars: 465 	 fork: 74 	 updated: 2017-10-02
+----------------------------------------------------
+uribeacon
+
+The Web Uri Open Beacon for the Internet of Things
+
+Stars: 406 	 fork: 112 	 updated: 2017-09-06
+----------------------------------------------------
+beacon-platform
+
+Code samples for Google's beacon platform
+
+Stars: 324 	 fork: 222 	 updated: 2017-10-20
+----------------------------------------------------
+multibox
+
+No Description.
+
+Stars: 273 	 fork: 92 	 updated: 2017-10-10
+----------------------------------------------------
+google-visualization-issues
+
+No Description.
+
+Stars: 193 	 fork: 17 	 updated: 2017-10-24
+----------------------------------------------------
+maps-for-work-samples
+
+No Description.
+
+Stars: 88 	 fork: 115 	 updated: 2017-10-24
+----------------------------------------------------
+web-starter-kit-extras
+
+Optional additions to Web Starter Kit
+
+Stars: 75 	 fork: 20 	 updated: 2017-07-10
+----------------------------------------------------
+google.github.io
+
+No Description.
+
+Stars: 31 	 fork: 33 	 updated: 2017-09-25
+----------------------------------------------------
+googleapps-password-generator
+
+No Description.
+
+Stars: 20 	 fork: 17 	 updated: 2017-09-21
+----------------------------------------------------
+gotrace
+
+No Description.
+
+Stars: 19 	 fork: 0 	 updated: 2016-12-05
+----------------------------------------------------
+cel-spec
+
+No Description.
+
+Stars: 18 	 fork: 2 	 updated: 2017-10-23
+----------------------------------------------------
+pandas
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+Stars: 18 	 fork: 10 	 updated: 2017-02-18
+----------------------------------------------------
+mcic-coco
+
+No Description.
+
+Stars: 17 	 fork: 6 	 updated: 2017-07-25
+----------------------------------------------------
+coursebuilder-releases
+
+No Description.
+
+Stars: 16 	 fork: 10 	 updated: 2017-03-03
+----------------------------------------------------
+channel-id-enclave
+
+Stores Chromium Channel ID private keys in an Intel SGX enclave.
+
+Stars: 16 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+built_json.dart
+
+Deleted, use built_value instead.
+
+Stars: 15 	 fork: 7 	 updated: 2017-08-19
+----------------------------------------------------
+wiberg-minimization
+
+No Description.
+
+Stars: 14 	 fork: 9 	 updated: 2017-07-06
+----------------------------------------------------
+goldfinch
+
+No Description.
+
+Stars: 13 	 fork: 7 	 updated: 2017-09-12
+----------------------------------------------------
+offline-content-packager
+
+**This is not an official Google product.** - Nkata is the Nigerian Igbo word for "basket". This is a content packaging tool, a configurable script that takes inputed media such as text and video, creates HTML shell pages around them, and bundles them into a navigable web-like experience with an index for use in an education setting without an Internet connection. Output (.zips, ISOs) can be burned onto external storage for loading onto unconnected machines. 
+
+Stars: 13 	 fork: 13 	 updated: 2017-09-10
+----------------------------------------------------
+enum_class.dart
+
+Deleted, use built_value instead.
+
+Stars: 10 	 fork: 6 	 updated: 2017-10-17
+----------------------------------------------------
+container-rfc
+
+An RFC for a standard container format
+
+Stars: 9 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+mobly-snippet-lib
+
+Mobly Snippet Lib is a library for triggering device-side code from host-side Mobly tests.
+
+Stars: 9 	 fork: 11 	 updated: 2017-06-09
+----------------------------------------------------
+language-jsonnet
+
+Jsonnet language support for the Atom text editor
+
+Stars: 8 	 fork: 5 	 updated: 2017-08-26
+----------------------------------------------------
+s2-geometry-library
+
+No Description.
+
+Stars: 7 	 fork: 0 	 updated: 2017-07-17
+----------------------------------------------------
+gitkit-ruby
+
+No Description.
+
+Stars: 6 	 fork: 0 	 updated: 2017-07-26
+----------------------------------------------------
+flooefi
+
+No Description.
+
+Stars: 5 	 fork: 0 	 updated: 2016-10-24
+----------------------------------------------------
+oss-bench
+
+No Description.
+
+Stars: 4 	 fork: 2 	 updated: 2017-07-06
+----------------------------------------------------
+safevarargs
+
+No Description.
+
+Stars: 3 	 fork: 5 	 updated: 2017-07-06
+----------------------------------------------------
+beta-binomial-fitting
+
+No Description.
+
+Stars: 3 	 fork: 0 	 updated: 2017-08-19
+----------------------------------------------------
+new-project
+
+No Description.
+
+Stars: 3 	 fork: 2 	 updated: 2017-09-30
+----------------------------------------------------
+blockly-repo
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2017-08-19
+----------------------------------------------------
+sirius
+
+sirius
+
+Stars: 3 	 fork: 0 	 updated: 2016-08-21
+----------------------------------------------------
+network-visualizer-x
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2016-12-17
+----------------------------------------------------
+Idris-dev
+
+A Dependently Typed Functional Programming Language
+
+Stars: 2 	 fork: 2 	 updated: 2017-02-17
+----------------------------------------------------
+go-glicko2
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2015-03-17
+----------------------------------------------------
+openpgp-interop
+
+Simple declarative test cases to read OpenPGP keys and messages generated by a variety of implementations.
+
+Stars: 2 	 fork: 2 	 updated: 2016-01-19
+----------------------------------------------------
+jenkins-flaky-test-report
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2016-04-27
+----------------------------------------------------
+go-shlex
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2015-03-17
+----------------------------------------------------
+favcolor-ios
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2015-04-30
+----------------------------------------------------
+auto-factory
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-08-19
+----------------------------------------------------
+fest
+
+No Description.
+
+Stars: 2 	 fork: 2 	 updated: 2016-12-05
+----------------------------------------------------
+auto-common
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-07-27
+----------------------------------------------------
+auto-service
+
+No Description.
+
+Stars: 2 	 fork: 0 	 updated: 2017-08-19
+----------------------------------------------------
+dev-on-chromeos-che
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-08-10
+----------------------------------------------------
+google-maven-parents
+
+Automatically exported from code.google.com/p/google-maven-repository
+
+Stars: 1 	 fork: 1 	 updated: 2015-12-08
+----------------------------------------------------
+coursebuilder-learning-analytics
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2014-09-09
+----------------------------------------------------
+river
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-08-25
+----------------------------------------------------
+citizen-x
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-08-19
+----------------------------------------------------
+gin
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2016-03-29
+----------------------------------------------------
+course-builder
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2014-06-04
+----------------------------------------------------
+datastudio
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-10-13
+----------------------------------------------------
+favcolor-findidp
+
+No Description.
+
+Stars: 1 	 fork: 3 	 updated: 2017-07-06
+----------------------------------------------------
+pubsubhubbub
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-03-03
+----------------------------------------------------
+kv-s3105c
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2016-05-08
+----------------------------------------------------
+sass_generator
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-01-05
+----------------------------------------------------
+gitwf
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2016-06-27
+----------------------------------------------------
+google-empty-test-module
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2016-05-27
+----------------------------------------------------
+YouCompleteSubl
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2014-03-26
+----------------------------------------------------
+ts-gulp
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-07-31
+----------------------------------------------------
+physical-web-core
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2016-02-08
+----------------------------------------------------
+xpra-upstart
+
+Upstart script for Xpra
+
+Stars: 0 	 fork: 3 	 updated: 2015-11-05
+----------------------------------------------------
+gdal-autotest2
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2014-04-16
+----------------------------------------------------
+git-annex-external-gcs
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-07-19
+----------------------------------------------------
+photo-sphere
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2014-05-16
+----------------------------------------------------
+organ-donor-app
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2016-03-26
+----------------------------------------------------
+older-mirrored-patches
+
+Google's older mirrored patches and tarballs that used to live at http://code.google.com/opensource/patches.html
+
+Stars: 0 	 fork: 1 	 updated: 2015-04-06
+----------------------------------------------------
+deliberate
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2015-02-22
+----------------------------------------------------
+reboot-somalia
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2015-02-21
+----------------------------------------------------
+jsontoken-tmp
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2015-04-28
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Dart(50)
+
+////////////////////////////////////////////////////
+
+
+github-issue-mover
+
+Making it easy to migrate issues between repos.
+
+Stars: 431 	 fork: 51 	 updated: 2017-10-18
+----------------------------------------------------
+quiver-dart
+
+A set of utility libraries for Dart
+
+Stars: 153 	 fork: 78 	 updated: 2017-10-24
+----------------------------------------------------
+charted
+
+Visualization toolkit for Dart language
+
+Stars: 102 	 fork: 50 	 updated: 2017-09-21
+----------------------------------------------------
+built_value.dart
+
+Immutable value types, enum classes, and serialization.
+
+Stars: 88 	 fork: 18 	 updated: 2017-10-24
+----------------------------------------------------
+grinder.dart
+
+Dart workflows, automated.
+
+Stars: 86 	 fork: 23 	 updated: 2017-10-23
+----------------------------------------------------
+vector_math.dart
+
+vector_math
+
+Stars: 81 	 fork: 39 	 updated: 2017-07-12
+----------------------------------------------------
+dart-tagtree
+
+A React-like UI framework in Dart
+
+Stars: 67 	 fork: 8 	 updated: 2017-09-30
+----------------------------------------------------
+built_collection.dart
+
+Immutable Dart collections via the builder pattern.
+
+Stars: 64 	 fork: 17 	 updated: 2017-10-17
+----------------------------------------------------
+streamy-dart
+
+No Description.
+
+Stars: 60 	 fork: 27 	 updated: 2017-10-23
+----------------------------------------------------
+webdriver.dart
+
+Dart WebDriver client
+
+Stars: 40 	 fork: 38 	 updated: 2017-10-22
+----------------------------------------------------
+chartjs.dart
+
+Dart API for Chart.js
+
+Stars: 31 	 fork: 21 	 updated: 2017-10-19
+----------------------------------------------------
+ansicolor-dart
+
+No Description.
+
+Stars: 28 	 fork: 10 	 updated: 2017-08-18
+----------------------------------------------------
+dart-collab
+
+An operational transform library for Dart
+
+Stars: 26 	 fork: 17 	 updated: 2017-07-06
+----------------------------------------------------
+tuneup.dart
+
+A command-line tool to manipulate and inspect your Dart projects.
+
+Stars: 26 	 fork: 9 	 updated: 2017-09-03
+----------------------------------------------------
+dart-scissors
+
+sCiSSors: smarter resources for Angular(1,2) apps: CSS pruner & bidirectionalizer, Sass runner, image optimizer, locale permutations
+
+Stars: 23 	 fork: 22 	 updated: 2017-10-24
+----------------------------------------------------
+angular_node_bind.dart
+
+Utilities to allow Angular templates to use Node.bind()
+
+Stars: 22 	 fork: 12 	 updated: 2017-08-18
+----------------------------------------------------
+test_runner.dart
+
+This is a Test Runner for the Dart programming language.
+
+Stars: 22 	 fork: 15 	 updated: 2017-06-29
+----------------------------------------------------
+serialization.dart
+
+A serialization library for Dart.
+
+Stars: 21 	 fork: 6 	 updated: 2017-07-14
+----------------------------------------------------
+box2d.dart
+
+A Dart port of Java's Box2D libraries.
+
+Stars: 21 	 fork: 10 	 updated: 2017-08-19
+----------------------------------------------------
+uri.dart
+
+Utilities for working with URIs in Dart
+
+Stars: 21 	 fork: 24 	 updated: 2017-07-06
+----------------------------------------------------
+codemirror.dart
+
+A Dart wrapper around the CodeMirror text editor.
+
+Stars: 21 	 fork: 17 	 updated: 2017-08-19
+----------------------------------------------------
+pageloader
+
+A framework for creating page objects for in-browser or WebDriver tests.
+
+Stars: 19 	 fork: 23 	 updated: 2017-06-21
+----------------------------------------------------
+angular_cli
+
+No Description.
+
+Stars: 15 	 fork: 4 	 updated: 2017-10-17
+----------------------------------------------------
+dart-sync-webdriver
+
+WebDriver API for Dart
+
+Stars: 15 	 fork: 16 	 updated: 2017-07-06
+----------------------------------------------------
+dart-sync-socket
+
+A Dart VM Native Extension and supporting Dart libraries that provide synchronous socket and HTTP client support.
+
+Stars: 13 	 fork: 17 	 updated: 2017-07-06
+----------------------------------------------------
+dart-json_diff
+
+No Description.
+
+Stars: 13 	 fork: 5 	 updated: 2017-06-23
+----------------------------------------------------
+files.dart
+
+A filesystem API with implementations for multiple environments
+
+Stars: 13 	 fork: 9 	 updated: 2017-10-14
+----------------------------------------------------
+comid
+
+CodeMirror in Dart
+
+Stars: 11 	 fork: 8 	 updated: 2017-08-19
+----------------------------------------------------
+dart-gif-encoder
+
+No Description.
+
+Stars: 10 	 fork: 8 	 updated: 2017-07-16
+----------------------------------------------------
+episodes.dart
+
+A framework for timing performance of web apps.
+
+Stars: 10 	 fork: 18 	 updated: 2017-07-06
+----------------------------------------------------
+dart-shapeshift
+
+No Description.
+
+Stars: 9 	 fork: 8 	 updated: 2017-05-10
+----------------------------------------------------
+mockable_filesystem.dart
+
+Utility library that can be used to write code that can in turn be tested with mocked files and directories.
+
+Stars: 8 	 fork: 8 	 updated: 2017-07-06
+----------------------------------------------------
+file.dart
+
+A generic file system abstraction for Dart.
+
+Stars: 7 	 fork: 5 	 updated: 2017-09-19
+----------------------------------------------------
+web_notifications.dart
+
+No Description.
+
+Stars: 7 	 fork: 3 	 updated: 2017-05-10
+----------------------------------------------------
+gae-channel-api.dart
+
+App Engine Channel API for Dart
+
+Stars: 7 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+arrow-logo
+
+No Description.
+
+Stars: 6 	 fork: 4 	 updated: 2017-08-18
+----------------------------------------------------
+polymer-dart-log-controller
+
+A small polymer element which lets you control the global logging configuration, and can optionally log all statements to the console.
+
+Stars: 5 	 fork: 8 	 updated: 2017-05-10
+----------------------------------------------------
+source_transformer.dart
+
+Patterns for easily re-writing source code
+
+Stars: 5 	 fork: 2 	 updated: 2017-05-10
+----------------------------------------------------
+pixelcycle-sample-app
+
+No Description.
+
+Stars: 5 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+service_worker.dart
+
+An implementation of service workers in Dart
+
+Stars: 5 	 fork: 3 	 updated: 2017-05-10
+----------------------------------------------------
+flutter-data
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2016-11-15
+----------------------------------------------------
+perf_api.dart
+
+No Description.
+
+Stars: 3 	 fork: 12 	 updated: 2017-07-06
+----------------------------------------------------
+quiver-log
+
+Logging utility for dart modeled on log4j/logback
+
+Stars: 3 	 fork: 7 	 updated: 2017-07-06
+----------------------------------------------------
+dart-doc_coverage
+
+No Description.
+
+Stars: 2 	 fork: 3 	 updated: 2017-04-01
+----------------------------------------------------
+platform.dart
+
+A generic platform abstraction for Dart
+
+Stars: 2 	 fork: 7 	 updated: 2017-05-10
+----------------------------------------------------
+process.dart
+
+No Description.
+
+Stars: 2 	 fork: 6 	 updated: 2017-05-29
+----------------------------------------------------
+crclib.dart
+
+No Description.
+
+Stars: 2 	 fork: 1 	 updated: 2017-05-10
+----------------------------------------------------
+librato.dart
+
+A Dart library to upload metrics data to librato.com.
+
+Stars: 1 	 fork: 2 	 updated: 2017-05-10
+----------------------------------------------------
+dart-immutables
+
+No Description.
+
+Stars: 1 	 fork: 1 	 updated: 2017-05-10
+----------------------------------------------------
+webkit_inspection_protocol.dart
+
+A client for the Webkit Inspection Protocol (WIP).
+
+Stars: 1 	 fork: 5 	 updated: 2017-05-10
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+C(49)
+
+////////////////////////////////////////////////////
+
+
+brotli
+
+Brotli compression format
+
+Stars: 5149 	 fork: 543 	 updated: 2017-10-25
+----------------------------------------------------
+ios-webkit-debug-proxy
+
+A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
+
+Stars: 3122 	 fork: 278 	 updated: 2017-10-25
+----------------------------------------------------
+eddystone
+
+Specification for Eddystone, an open beacon format from Google
+
+Stars: 2528 	 fork: 614 	 updated: 2017-10-25
+----------------------------------------------------
+honggfuzz
+
+Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (software- and hardware-based)
+
+Stars: 872 	 fork: 193 	 updated: 2017-10-25
+----------------------------------------------------
+nsjail
+
+A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+
+Stars: 844 	 fork: 96 	 updated: 2017-10-25
+----------------------------------------------------
+upb
+
+small, fast parsers for the 21st century
+
+Stars: 820 	 fork: 109 	 updated: 2017-10-19
+----------------------------------------------------
+ngx_brotli
+
+NGINX module for Brotli compression
+
+Stars: 596 	 fork: 46 	 updated: 2017-10-20
+----------------------------------------------------
+latency-benchmark
+
+Tests web browser input latency and jank
+
+Stars: 420 	 fork: 35 	 updated: 2017-10-20
+----------------------------------------------------
+fuzzer-test-suite
+
+Set of tests for fuzzing engines
+
+Stars: 418 	 fork: 105 	 updated: 2017-10-24
+----------------------------------------------------
+snappy-start
+
+Tool for launching a Linux process from a snapshot
+
+Stars: 352 	 fork: 11 	 updated: 2017-10-16
+----------------------------------------------------
+google-authenticator-libpam
+
+No Description.
+
+Stars: 257 	 fork: 67 	 updated: 2017-10-25
+----------------------------------------------------
+boringssl
+
+Mirror of BoringSSL
+
+Stars: 252 	 fork: 110 	 updated: 2017-10-19
+----------------------------------------------------
+capsicum-linux
+
+Linux kernel with Capsicum support
+
+Stars: 160 	 fork: 29 	 updated: 2017-09-02
+----------------------------------------------------
+kasan
+
+KernelAddressSanitizer, a fast memory error detector for the Linux kernel
+
+Stars: 147 	 fork: 41 	 updated: 2017-10-23
+----------------------------------------------------
+xsecurelock
+
+X11 screen lock utility with security in mind
+
+Stars: 142 	 fork: 16 	 updated: 2017-09-18
+----------------------------------------------------
+packetdrill
+
+The official Google release of packetdrill
+
+Stars: 124 	 fork: 40 	 updated: 2017-10-17
+----------------------------------------------------
+ktsan
+
+KernelThreadSanitizer, a fast data race detector for the Linux kernel
+
+Stars: 117 	 fork: 24 	 updated: 2017-09-16
+----------------------------------------------------
+kmsan
+
+KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel
+
+Stars: 104 	 fork: 11 	 updated: 2017-10-23
+----------------------------------------------------
+vpn-reverse-tether
+
+VPN-based USB "reverse tether"
+
+Stars: 100 	 fork: 44 	 updated: 2017-10-16
+----------------------------------------------------
+science-journal-arduino
+
+Science Journal Arduino Firmware
+
+Stars: 84 	 fork: 33 	 updated: 2017-10-23
+----------------------------------------------------
+cronutils
+
+utilities to assist running batch processing jobs
+
+Stars: 78 	 fork: 13 	 updated: 2017-09-19
+----------------------------------------------------
+kafel
+
+A language and library for specifying syscall filtering policies.
+
+Stars: 76 	 fork: 20 	 updated: 2017-10-22
+----------------------------------------------------
+clspv
+
+Clspv is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders
+
+Stars: 74 	 fork: 12 	 updated: 2017-10-23
+----------------------------------------------------
+file-system-stress-testing
+
+A tool that can be used to stress test POSIX filesystems.
+
+Stars: 43 	 fork: 13 	 updated: 2017-09-19
+----------------------------------------------------
+neper
+
+neper is a Linux networking performance tool.
+
+Stars: 32 	 fork: 11 	 updated: 2017-10-13
+----------------------------------------------------
+ngx_token_binding
+
+NGINX module for Token Binding
+
+Stars: 25 	 fork: 8 	 updated: 2017-09-07
+----------------------------------------------------
+nsync
+
+nsync is a C library that exports various synchronization primitives, such as mutexes
+
+Stars: 23 	 fork: 12 	 updated: 2017-10-25
+----------------------------------------------------
+libpam-policycache
+
+Password caching module with advanced policies for PAM.
+
+Stars: 21 	 fork: 9 	 updated: 2017-10-25
+----------------------------------------------------
+libnss-cache
+
+a NSS module for reading directory service information for Linux hosts from an indexed, local disk cache
+
+Stars: 21 	 fork: 14 	 updated: 2017-09-24
+----------------------------------------------------
+multichase
+
+No Description.
+
+Stars: 17 	 fork: 14 	 updated: 2017-07-15
+----------------------------------------------------
+tcpauth
+
+No Description.
+
+Stars: 17 	 fork: 8 	 updated: 2017-10-17
+----------------------------------------------------
+python-fanotify
+
+Python bindings for Linux's fanotify API
+
+Stars: 17 	 fork: 7 	 updated: 2017-10-01
+----------------------------------------------------
+linux-sensor
+
+No Description.
+
+Stars: 15 	 fork: 8 	 updated: 2017-06-01
+----------------------------------------------------
+midi-dump-tools
+
+A collection of tools that dump MIDI to a variety of formats
+
+Stars: 14 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+token_bind
+
+No Description.
+
+Stars: 12 	 fork: 7 	 updated: 2017-09-07
+----------------------------------------------------
+bzip2-rpc
+
+Experiments in converting bzip2 API to be RPC-based
+
+Stars: 8 	 fork: 6 	 updated: 2017-08-19
+----------------------------------------------------
+bluesky-watchface
+
+No Description.
+
+Stars: 8 	 fork: 1 	 updated: 2017-08-19
+----------------------------------------------------
+jalic
+
+No Description.
+
+Stars: 7 	 fork: 3 	 updated: 2017-09-13
+----------------------------------------------------
+pblog
+
+Pblog is a small, low overhead, structured logging library
+
+Stars: 6 	 fork: 7 	 updated: 2017-09-26
+----------------------------------------------------
+audit-normalmap
+
+No Description.
+
+Stars: 5 	 fork: 2 	 updated: 2017-08-18
+----------------------------------------------------
+dtask
+
+DTask is a scheduler for statically dependent tasks.
+
+Stars: 5 	 fork: 6 	 updated: 2017-03-28
+----------------------------------------------------
+fscryptctl
+
+Small C tool for Linux filesystem encryption
+
+Stars: 5 	 fork: 4 	 updated: 2017-08-28
+----------------------------------------------------
+streamhtmlparser
+
+Automatically exported from code.google.com/p/streamhtmlparser
+
+Stars: 4 	 fork: 6 	 updated: 2017-07-17
+----------------------------------------------------
+fpc
+
+FPC calculates information to be used in fixed-point integer calculations
+
+Stars: 3 	 fork: 2 	 updated: 2017-09-26
+----------------------------------------------------
+zimu
+
+No Description.
+
+Stars: 3 	 fork: 4 	 updated: 2017-08-20
+----------------------------------------------------
+google-drive-dokany
+
+No Description.
+
+Stars: 2 	 fork: 2 	 updated: 2017-09-09
+----------------------------------------------------
+xdelta3-decoder-js
+
+No Description.
+
+Stars: 2 	 fork: 1 	 updated: 2017-04-18
+----------------------------------------------------
+pam-cryptsetup
+
+No Description.
+
+Stars: 1 	 fork: 2 	 updated: 2017-04-11
+----------------------------------------------------
+yara-procdump-python
+
+A Python extension to wrap the Yara process memory access API.
+
+Stars: 0 	 fork: 0 	 updated: 2017-10-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+HTML(26)
+
+////////////////////////////////////////////////////
+
+
+material-design-lite
+
+Material Design Components in HTML/CSS/JS
+
+Stars: 28831 	 fork: 5000 	 updated: 2017-10-25
+----------------------------------------------------
+web-starter-kit
+
+Web Starter Kit - a workflow for multi-device websites
+
+Stars: 17708 	 fork: 3040 	 updated: 2017-10-25
+----------------------------------------------------
+styleguide
+
+Style guides for Google-originated open-source projects
+
+Stars: 11421 	 fork: 3514 	 updated: 2017-10-25
+----------------------------------------------------
+gson
+
+A Java serialization/deserialization library to convert Java Objects into JSON and back
+
+Stars: 10528 	 fork: 2326 	 updated: 2017-10-25
+----------------------------------------------------
+fonts
+
+Font files available from Google Fonts
+
+Stars: 9708 	 fork: 1518 	 updated: 2017-10-25
+----------------------------------------------------
+WebFundamentals
+
+Best practices for modern web development
+
+Stars: 7910 	 fork: 1567 	 updated: 2017-10-24
+----------------------------------------------------
+gumbo-parser
+
+An HTML5 parsing library in pure C99
+
+Stars: 4131 	 fork: 567 	 updated: 2017-10-25
+----------------------------------------------------
+keyczar
+
+Easy-to-use crypto toolkit
+
+Stars: 921 	 fork: 119 	 updated: 2017-10-23
+----------------------------------------------------
+android-gradle-dsl
+
+DSL reference for the Android plugin for Gradle.
+
+Stars: 442 	 fork: 73 	 updated: 2017-10-17
+----------------------------------------------------
+gdata-python-client
+
+No Description.
+
+Stars: 326 	 fork: 174 	 updated: 2017-10-23
+----------------------------------------------------
+tacotron
+
+Audio samples from the paper "Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model".
+
+Stars: 177 	 fork: 25 	 updated: 2017-10-02
+----------------------------------------------------
+uniflow-polymer
+
+UniFlow for Polymer
+
+Stars: 153 	 fork: 13 	 updated: 2017-10-10
+----------------------------------------------------
+git-appraise-web
+
+Web UI for git-appraise
+
+Stars: 71 	 fork: 8 	 updated: 2017-10-19
+----------------------------------------------------
+rekall-profiles
+
+Public Profile Repository for Rekall Memory Forensic.
+
+Stars: 57 	 fork: 41 	 updated: 2017-10-20
+----------------------------------------------------
+cap-library
+
+Common Alerting Protocol Library
+
+Stars: 50 	 fork: 16 	 updated: 2017-08-19
+----------------------------------------------------
+paper-gui
+
+A clone of dat.GUI using nice Polymer paper elements.
+
+Stars: 18 	 fork: 10 	 updated: 2017-08-07
+----------------------------------------------------
+creatism
+
+No Description.
+
+Stars: 17 	 fork: 3 	 updated: 2017-08-20
+----------------------------------------------------
+calendar-connectors
+
+Automatically exported from code.google.com/p/google-calendar-connectors
+
+Stars: 16 	 fork: 10 	 updated: 2017-10-14
+----------------------------------------------------
+unimorph
+
+No Description.
+
+Stars: 13 	 fork: 2 	 updated: 2017-08-07
+----------------------------------------------------
+playhvz
+
+No Description.
+
+Stars: 7 	 fork: 15 	 updated: 2017-07-17
+----------------------------------------------------
+conferenceDB
+
+No Description.
+
+Stars: 5 	 fork: 3 	 updated: 2017-09-27
+----------------------------------------------------
+address-geocoder-js
+
+No Description.
+
+Stars: 4 	 fork: 1 	 updated: 2017-08-18
+----------------------------------------------------
+json-sans-eval
+
+Automatically exported from code.google.com/p/json-sans-eval
+
+Stars: 2 	 fork: 3 	 updated: 2017-02-17
+----------------------------------------------------
+cssi-blogasaurus
+
+A sample web app project from the Computer Science Summer Institute.
+
+Stars: 1 	 fork: 1 	 updated: 2017-07-25
+----------------------------------------------------
+dropzone-polyfill
+
+Polyfill for the removed HTML5 dropzone attribute
+
+Stars: 1 	 fork: 2 	 updated: 2017-06-24
+----------------------------------------------------
+virtual-tutors
+
+No Description.
+
+Stars: 0 	 fork: 1 	 updated: 2017-04-05
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Objective-C(24)
+
+////////////////////////////////////////////////////
+
+
+EarlGrey
+
+:tea: iOS UI Automation Test Framework
+
+Stars: 3897 	 fork: 475 	 updated: 2017-10-25
+----------------------------------------------------
+santa
+
+A binary whitelisting/blacklisting system for Mac OS X
+
+Stars: 1740 	 fork: 133 	 updated: 2017-10-25
+----------------------------------------------------
+google-toolbox-for-mac
+
+Google Toolbox for Mac
+
+Stars: 579 	 fork: 123 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-objectivec-client
+
+ Google APIs Client Library for Objective-C
+
+Stars: 296 	 fork: 145 	 updated: 2017-10-20
+----------------------------------------------------
+paco
+
+The Paco behavioral science mobile research platform
+
+Stars: 276 	 fork: 92 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-objectivec-client-for-rest
+
+Google APIs Client Library for Objective-C for REST
+
+Stars: 212 	 fork: 80 	 updated: 2017-10-21
+----------------------------------------------------
+gdata-objectivec-client
+
+Google Data APIs Objective-C Client Library
+
+Stars: 118 	 fork: 62 	 updated: 2017-10-20
+----------------------------------------------------
+gtm-oauth2
+
+Google Toolbox for Mac - OAuth 2 Controllers
+
+Stars: 103 	 fork: 57 	 updated: 2017-10-03
+----------------------------------------------------
+GTMAppAuth
+
+OAuth and OpenID Connect client for iOS, macOS, and tvOS, for use with Google libraries.
+
+Stars: 79 	 fork: 48 	 updated: 2017-10-20
+----------------------------------------------------
+gtm-session-fetcher
+
+ Google Toolbox for Mac - Session Fetcher
+
+Stars: 71 	 fork: 55 	 updated: 2017-10-20
+----------------------------------------------------
+macops-keychainminder
+
+SecurityAgentPlugin for monitoring keychain password synchronization
+
+Stars: 64 	 fork: 13 	 updated: 2017-08-25
+----------------------------------------------------
+gtm-http-fetcher
+
+Google Toolbox for Mac - HTTP Fetcher
+
+Stars: 53 	 fork: 24 	 updated: 2017-10-20
+----------------------------------------------------
+macops-planb
+
+Plan B is a remediation program for managed Macs
+
+Stars: 51 	 fork: 6 	 updated: 2017-10-20
+----------------------------------------------------
+restor
+
+No Description.
+
+Stars: 42 	 fork: 5 	 updated: 2017-10-21
+----------------------------------------------------
+macops-MOMenu
+
+MOMenu is a statusbar item with a plug-in architecture.
+
+Stars: 31 	 fork: 5 	 updated: 2017-10-20
+----------------------------------------------------
+gtm-oauth
+
+Google Toolbox for Mac - OAuth Controllers
+
+Stars: 21 	 fork: 21 	 updated: 2017-10-20
+----------------------------------------------------
+ios-chatbot
+
+No Description.
+
+Stars: 21 	 fork: 11 	 updated: 2017-10-20
+----------------------------------------------------
+macops-molcertificate
+
+Objective-C wrapper around SecCertificateRef
+
+Stars: 14 	 fork: 4 	 updated: 2017-10-20
+----------------------------------------------------
+templatekit
+
+No Description.
+
+Stars: 11 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+macops-molcodesignchecker
+
+Simple Objective-C code signature validation
+
+Stars: 8 	 fork: 6 	 updated: 2017-10-20
+----------------------------------------------------
+macops-MOLAuthenticatingURLSession
+
+A wrapper around NSURLSession providing validation of server certificates and easy-to-use client certificate authentication.
+
+Stars: 7 	 fork: 5 	 updated: 2017-10-20
+----------------------------------------------------
+macops-MOLFCMClient
+
+No Description.
+
+Stars: 5 	 fork: 2 	 updated: 2017-10-20
+----------------------------------------------------
+pods-helper
+
+No Description.
+
+Stars: 2 	 fork: 2 	 updated: 2017-02-17
+----------------------------------------------------
+macops-MOLXPCConnection
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-10-20
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Shell(20)
+
+////////////////////////////////////////////////////
+
+
+oss-fuzz
+
+OSS-Fuzz - continuous fuzzing of open source software
+
+Stars: 2127 	 fork: 340 	 updated: 2017-10-25
+----------------------------------------------------
+cityhash
+
+Automatically exported from code.google.com/p/cityhash
+
+Stars: 320 	 fork: 65 	 updated: 2017-10-24
+----------------------------------------------------
+cmockery
+
+A lightweight library to simplify and generalize the process of writing unit tests for C applications.
+
+Stars: 267 	 fork: 159 	 updated: 2017-10-24
+----------------------------------------------------
+crush-tools
+
+Automatically exported from code.google.com/p/crush-tools
+
+Stars: 71 	 fork: 13 	 updated: 2017-10-03
+----------------------------------------------------
+sparrowhawk
+
+No Description.
+
+Stars: 56 	 fork: 17 	 updated: 2017-10-24
+----------------------------------------------------
+build-debian-cloud
+
+Script to create Debian Squeeze & Wheezy Amazon Machine Images (AMIs) and Google Compute Engine images
+
+Stars: 32 	 fork: 19 	 updated: 2017-08-19
+----------------------------------------------------
+appengine-jenkins
+
+No Description.
+
+Stars: 26 	 fork: 18 	 updated: 2017-09-22
+----------------------------------------------------
+appengine-phabricator
+
+Image for running Phabricator on App Engine
+
+Stars: 13 	 fork: 7 	 updated: 2017-08-18
+----------------------------------------------------
+coursebuilder-resources
+
+No Description.
+
+Stars: 9 	 fork: 8 	 updated: 2016-11-29
+----------------------------------------------------
+netbsd-gce
+
+NetBSD Support for Google Compute Engine
+
+Stars: 9 	 fork: 1 	 updated: 2017-09-21
+----------------------------------------------------
+zeroshell-linode
+
+Script for Zeroshell installation on Linode (Xen)
+
+Stars: 5 	 fork: 3 	 updated: 2017-07-31
+----------------------------------------------------
+brotli-wheels
+
+No Description.
+
+Stars: 3 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+GOS-conventions
+
+A convention for Objective-C libraries.
+
+Stars: 2 	 fork: 5 	 updated: 2016-06-07
+----------------------------------------------------
+heroku-buildpack-bazel
+
+No Description.
+
+Stars: 2 	 fork: 2 	 updated: 2017-05-19
+----------------------------------------------------
+blockly-tools
+
+tools for developing Blockly
+
+Stars: 2 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+cwd_jmp
+
+No Description.
+
+Stars: 2 	 fork: 1 	 updated: 2015-05-30
+----------------------------------------------------
+param_runner
+
+No Description.
+
+Stars: 1 	 fork: 1 	 updated: 2016-10-09
+----------------------------------------------------
+dev-on-chromeos-openvpn
+
+No Description.
+
+Stars: 1 	 fork: 0 	 updated: 2017-08-30
+----------------------------------------------------
+dev-on-chromeos-gce-setup
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-08-09
+----------------------------------------------------
+gtd-txt
+
+Getting Things Done in plain text
+
+Stars: 0 	 fork: 0 	 updated: 2017-09-20
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Ruby(14)
+
+////////////////////////////////////////////////////
+
+
+google-api-ruby-client
+
+No Description.
+
+Stars: 1687 	 fork: 492 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-ruby-client-samples
+
+Samples for the Google API Ruby Client
+
+Stars: 308 	 fork: 162 	 updated: 2017-10-11
+----------------------------------------------------
+signet
+
+Signet is an OAuth 1.0 / OAuth 2.0 implementation.
+
+Stars: 221 	 fork: 116 	 updated: 2017-10-12
+----------------------------------------------------
+google-auth-library-ruby
+
+Google Auth Library for Ruby
+
+Stars: 167 	 fork: 88 	 updated: 2017-10-17
+----------------------------------------------------
+autoparse
+
+A dynamically generated parsing system using JSON Schema.
+
+Stars: 133 	 fork: 30 	 updated: 2017-08-19
+----------------------------------------------------
+ruby-openid-apps-discovery
+
+No Description.
+
+Stars: 31 	 fork: 14 	 updated: 2017-07-06
+----------------------------------------------------
+google-id-token
+
+Automatically exported from code.google.com/p/google-id-token
+
+Stars: 20 	 fork: 18 	 updated: 2017-09-27
+----------------------------------------------------
+homebrew-google-authenticator
+
+No Description.
+
+Stars: 15 	 fork: 7 	 updated: 2017-09-14
+----------------------------------------------------
+developer.github.com
+
+GitHub API documentation
+
+Stars: 14 	 fork: 11 	 updated: 2017-07-06
+----------------------------------------------------
+identity-toolkit-ruby-client
+
+Google Identity Toolkit client library for Ruby
+
+Stars: 6 	 fork: 7 	 updated: 2017-07-10
+----------------------------------------------------
+homebrew-xpra
+
+Homebrew tap for Xpra
+
+Stars: 4 	 fork: 7 	 updated: 2017-01-23
+----------------------------------------------------
+favcolor-server
+
+No Description.
+
+Stars: 4 	 fork: 5 	 updated: 2017-07-06
+----------------------------------------------------
+sonic-midi
+
+Plays melodies in SonicPi while converting them to MIDI
+
+Stars: 3 	 fork: 0 	 updated: 2017-10-24
+----------------------------------------------------
+nanopb-podspec
+
+Podspecs of library I claimed ownership on CocoaPods
+
+Stars: 1 	 fork: 2 	 updated: 2017-09-06
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+PHP(13)
+
+////////////////////////////////////////////////////
+
+
+google-api-php-client
+
+A PHP client library for accessing Google APIs
+
+Stars: 4680 	 fork: 2381 	 updated: 2017-10-25
+----------------------------------------------------
+recaptcha
+
+reCAPTCHA is a free service to protect your website from spam and abuse.
+
+Stars: 1668 	 fork: 553 	 updated: 2017-10-25
+----------------------------------------------------
+recki-ct
+
+No Description.
+
+Stars: 548 	 fork: 41 	 updated: 2017-10-25
+----------------------------------------------------
+security-research-pocs
+
+Proof-of-concept codes created as part of security research done by Google Security Team.
+
+Stars: 471 	 fork: 79 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-php-client-services
+
+No Description.
+
+Stars: 129 	 fork: 110 	 updated: 2017-10-25
+----------------------------------------------------
+google-auth-library-php
+
+Google Auth Library for PHP
+
+Stars: 121 	 fork: 66 	 updated: 2017-10-23
+----------------------------------------------------
+identity-toolkit-php-client
+
+Google Identity Toolkit client library for PHP
+
+Stars: 28 	 fork: 20 	 updated: 2017-09-04
+----------------------------------------------------
+arc-xcode-test-engine
+
+An Xcode test engine for use with Phabricator's arc command line tool.
+
+Stars: 22 	 fork: 9 	 updated: 2017-08-18
+----------------------------------------------------
+freebase-wikidata-converter
+
+No Description.
+
+Stars: 20 	 fork: 9 	 updated: 2017-10-24
+----------------------------------------------------
+gtfs-realtime-bindings-php
+
+No Description.
+
+Stars: 15 	 fork: 11 	 updated: 2017-10-21
+----------------------------------------------------
+arc-jazzy-linter
+
+A jazzy linter for use with Phabricator's arc command line tool.
+
+Stars: 13 	 fork: 3 	 updated: 2017-08-18
+----------------------------------------------------
+arc-proselint
+
+A proselint linter for use with Phabricator's arc command line tool.
+
+Stars: 8 	 fork: 4 	 updated: 2017-09-10
+----------------------------------------------------
+arc-regex-line-length-linter
+
+A configurable line length linter for use with Phabricator's arc command line tool.
+
+Stars: 4 	 fork: 1 	 updated: 2017-08-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Rust(12)
+
+////////////////////////////////////////////////////
+
+
+xi-editor
+
+A modern editor with a backend written in Rust.
+
+Stars: 8575 	 fork: 304 	 updated: 2017-10-25
+----------------------------------------------------
+tarpc
+
+An RPC framework for Rust with a focus on ease of use.
+
+Stars: 521 	 fork: 35 	 updated: 2017-10-23
+----------------------------------------------------
+font-rs
+
+No Description.
+
+Stars: 479 	 fork: 26 	 updated: 2017-10-23
+----------------------------------------------------
+pulldown-cmark
+
+No Description.
+
+Stars: 377 	 fork: 62 	 updated: 2017-10-23
+----------------------------------------------------
+rustcxx
+
+rustcxx: Using C++ from Rust made easy
+
+Stars: 325 	 fork: 10 	 updated: 2017-10-23
+----------------------------------------------------
+hat-backup
+
+Backend-agnostic snapshotting backup system
+
+Stars: 208 	 fork: 21 	 updated: 2017-10-20
+----------------------------------------------------
+rspirv
+
+Rust implementation of SPIR-V module processing functionalities
+
+Stars: 124 	 fork: 11 	 updated: 2017-10-19
+----------------------------------------------------
+fancy-regex
+
+No Description.
+
+Stars: 116 	 fork: 9 	 updated: 2017-10-24
+----------------------------------------------------
+xi-win
+
+No Description.
+
+Stars: 43 	 fork: 9 	 updated: 2017-10-23
+----------------------------------------------------
+rust-multihash
+
+No Description.
+
+Stars: 22 	 fork: 4 	 updated: 2017-10-06
+----------------------------------------------------
+shaderc-rs
+
+Rust bindings for the shaderc library.
+
+Stars: 9 	 fork: 5 	 updated: 2017-10-11
+----------------------------------------------------
+synthesizer-io
+
+No Description.
+
+Stars: 3 	 fork: 1 	 updated: 2017-05-27
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+R(10)
+
+////////////////////////////////////////////////////
+
+
+CausalImpact
+
+An R package for causal inference in time series
+
+Stars: 710 	 fork: 119 	 updated: 2017-10-24
+----------------------------------------------------
+rappor
+
+RAPPOR: Privacy-Preserving Reporting Algorithms
+
+Stars: 420 	 fork: 76 	 updated: 2017-10-25
+----------------------------------------------------
+glassbox
+
+No Description.
+
+Stars: 14 	 fork: 5 	 updated: 2017-08-17
+----------------------------------------------------
+amss
+
+No Description.
+
+Stars: 7 	 fork: 4 	 updated: 2017-08-18
+----------------------------------------------------
+glmmplus
+
+No Description.
+
+Stars: 6 	 fork: 4 	 updated: 2017-07-06
+----------------------------------------------------
+NLSdata
+
+No Description.
+
+Stars: 5 	 fork: 4 	 updated: 2017-07-06
+----------------------------------------------------
+GeoexperimentsResearch
+
+An open-source implementation of the geo experiment analysis methodology developed at Google. Disclaimer: This is not an official Google product.
+
+Stars: 5 	 fork: 3 	 updated: 2017-08-14
+----------------------------------------------------
+calenviroscreen
+
+No Description.
+
+Stars: 4 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+abpackage
+
+An R package for AB testing leveraging pre-period information
+
+Stars: 4 	 fork: 2 	 updated: 2017-09-30
+----------------------------------------------------
+MAB
+
+R package for Multi-Armed Bandit Simulation Study
+
+Stars: 1 	 fork: 1 	 updated: 2017-09-04
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+C#(9)
+
+////////////////////////////////////////////////////
+
+
+google-api-dotnet-client
+
+Google APIs Client Library for .NET
+
+Stars: 504 	 fork: 242 	 updated: 2017-10-25
+----------------------------------------------------
+sandbox-attacksurface-analysis-tools
+
+No Description.
+
+Stars: 438 	 fork: 125 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-dotnet-client-samples
+
+Samples of using the Google APIs Client Library for .NET
+
+Stars: 110 	 fork: 231 	 updated: 2017-10-24
+----------------------------------------------------
+mechahamster
+
+Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.
+
+Stars: 37 	 fork: 7 	 updated: 2017-10-17
+----------------------------------------------------
+google-drive-proxy
+
+Google Drive Proxy is a Windows service that provides a simpler interface to the Google Drive API for other applications. It transparently handles authentication, synchronization and managing a cache of downloaded files.
+
+Stars: 30 	 fork: 16 	 updated: 2017-10-11
+----------------------------------------------------
+access-bridge-explorer
+
+Explore accessibility tree of Java Access Bridge enabled applications
+
+Stars: 24 	 fork: 7 	 updated: 2017-10-04
+----------------------------------------------------
+google-gdata
+
+Automatically exported from code.google.com/p/google-gdata
+
+Stars: 5 	 fork: 5 	 updated: 2017-10-11
+----------------------------------------------------
+chatbase-dotnet
+
+Integrate your DotNet application with Chatbase!
+
+Stars: 3 	 fork: 1 	 updated: 2017-10-03
+----------------------------------------------------
+ORFConverter
+
+No Description.
+
+Stars: 0 	 fork: 1 	 updated: 2015-12-15
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+TypeScript(7)
+
+////////////////////////////////////////////////////
+
+
+google-api-nodejs-client
+
+Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included. API Reference Docs: http://google.github.io/google-api-nodejs-client/
+
+Stars: 5615 	 fork: 873 	 updated: 2017-10-24
+----------------------------------------------------
+google-auth-library-nodejs
+
+Google Auth Library for Node.js
+
+Stars: 245 	 fork: 114 	 updated: 2017-10-24
+----------------------------------------------------
+neuroglancer
+
+WebGL-based viewer for volumetric data
+
+Stars: 120 	 fork: 47 	 updated: 2017-10-14
+----------------------------------------------------
+ts-style
+
+☂️ TypeScript style guide, formatter, and linter.  
+
+Stars: 42 	 fork: 8 	 updated: 2017-10-24
+----------------------------------------------------
+sync3k-client
+
+No Description.
+
+Stars: 11 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+angular-sticky-element
+
+No Description.
+
+Stars: 7 	 fork: 1 	 updated: 2017-10-18
+----------------------------------------------------
+energystrategies
+
+No Description.
+
+Stars: 5 	 fork: 1 	 updated: 2017-09-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Vim script(7)
+
+////////////////////////////////////////////////////
+
+
+vim-maktaba
+
+Consistent Vimscript
+
+Stars: 473 	 fork: 37 	 updated: 2017-10-20
+----------------------------------------------------
+vim-codefmt
+
+No Description.
+
+Stars: 393 	 fork: 42 	 updated: 2017-10-24
+----------------------------------------------------
+vim-searchindex
+
+vim-searchindex: display number of search matches & index of a current match
+
+Stars: 107 	 fork: 12 	 updated: 2017-10-17
+----------------------------------------------------
+vim-syncopate
+
+Make it easy to share beautiful code.  DISCLAIMER: This is not an official Google product.
+
+Stars: 69 	 fork: 10 	 updated: 2017-10-16
+----------------------------------------------------
+vim-glaive
+
+No Description.
+
+Stars: 55 	 fork: 13 	 updated: 2017-08-22
+----------------------------------------------------
+vim-coverage
+
+No Description.
+
+Stars: 46 	 fork: 7 	 updated: 2017-09-30
+----------------------------------------------------
+vim-jsonnet
+
+Jsonnet filetype plugin for Vim.
+
+Stars: 19 	 fork: 7 	 updated: 2017-10-13
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+CSS(6)
+
+////////////////////////////////////////////////////
+
+
+material-design-icons
+
+Material Design icons by Google
+
+Stars: 31932 	 fork: 6248 	 updated: 2017-10-25
+----------------------------------------------------
+google-api-javascript-client
+
+Google APIs Client Library for JavaScript
+
+Stars: 518 	 fork: 324 	 updated: 2017-10-24
+----------------------------------------------------
+namebench
+
+namebench
+
+Stars: 480 	 fork: 64 	 updated: 2017-10-23
+----------------------------------------------------
+contentbox
+
+Distribution of social and virtual content with an open and collaborative educational environment, available to communities around the world in one place, with a standard format and quality
+
+Stars: 30 	 fork: 13 	 updated: 2017-08-19
+----------------------------------------------------
+gsocguides
+
+Google Summer of Code Mentor and Student Guides
+
+Stars: 9 	 fork: 6 	 updated: 2017-10-23
+----------------------------------------------------
+open-gantry
+
+No Description.
+
+Stars: 6 	 fork: 5 	 updated: 2017-07-06
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Haskell(5)
+
+////////////////////////////////////////////////////
+
+
+codeworld
+
+Educational computer programming environment using Haskell
+
+Stars: 666 	 fork: 92 	 updated: 2017-10-24
+----------------------------------------------------
+proto-lens
+
+API for protocol buffers using modern Haskell language and library patterns. This is not an official Google product.
+
+Stars: 156 	 fork: 22 	 updated: 2017-10-20
+----------------------------------------------------
+haskell-indexer
+
+Emits code crossreference data for Haskell sources.
+
+Stars: 38 	 fork: 12 	 updated: 2017-09-14
+----------------------------------------------------
+pull-request-mailer
+
+Sends a GitHub pull request as a patch series via email
+
+Stars: 22 	 fork: 6 	 updated: 2017-05-05
+----------------------------------------------------
+clang-lens
+
+No Description.
+
+Stars: 13 	 fork: 1 	 updated: 2017-08-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+VimL(5)
+
+////////////////////////////////////////////////////
+
+
+vim-colorscheme-primary
+
+Primary, a Vim color scheme based on Google's colors
+
+Stars: 214 	 fork: 25 	 updated: 2017-10-16
+----------------------------------------------------
+vim-ft-go
+
+No Description.
+
+Stars: 40 	 fork: 5 	 updated: 2017-04-30
+----------------------------------------------------
+vim-codereview
+
+No Description.
+
+Stars: 37 	 fork: 7 	 updated: 2017-10-18
+----------------------------------------------------
+vim-ft-vroom
+
+No Description.
+
+Stars: 9 	 fork: 6 	 updated: 2017-07-06
+----------------------------------------------------
+vim-selector
+
+No Description.
+
+Stars: 8 	 fork: 1 	 updated: 2017-04-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Matlab(4)
+
+////////////////////////////////////////////////////
+
+
+yang_vocoder
+
+No Description.
+
+Stars: 62 	 fork: 21 	 updated: 2017-08-24
+----------------------------------------------------
+carfac
+
+Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model.
+
+Stars: 39 	 fork: 12 	 updated: 2017-09-13
+----------------------------------------------------
+RED
+
+RED - Regularization by Denoising
+
+Stars: 7 	 fork: 1 	 updated: 2017-09-28
+----------------------------------------------------
+ffcc
+
+Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space
+
+Stars: 6 	 fork: 6 	 updated: 2017-10-02
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Swift(4)
+
+////////////////////////////////////////////////////
+
+
+xi-mac
+
+No Description.
+
+Stars: 548 	 fork: 32 	 updated: 2017-10-24
+----------------------------------------------------
+blockly-ios
+
+Blockly for iOS
+
+Stars: 182 	 fork: 64 	 updated: 2017-10-25
+----------------------------------------------------
+auth-library-swift
+
+Auth client library for Swift command-line tools and cloud services.
+
+Stars: 12 	 fork: 4 	 updated: 2017-10-20
+----------------------------------------------------
+open-location-code-swift
+
+Swift implementation of Open Location Code. Supports Swift and Objective-C for iOS, macOS, tvOS and watchOS, and Swift for Linux.
+
+Stars: 1 	 fork: 0 	 updated: 2017-10-02
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Jupyter Notebook(4)
+
+////////////////////////////////////////////////////
+
+
+music-synthesizer-for-android
+
+Automatically exported from code.google.com/p/music-synthesizer-for-android
+
+Stars: 150 	 fork: 31 	 updated: 2017-10-24
+----------------------------------------------------
+eng-edu
+
+No Description.
+
+Stars: 69 	 fork: 18 	 updated: 2017-09-28
+----------------------------------------------------
+energysimulation
+
+No Description.
+
+Stars: 31 	 fork: 3 	 updated: 2017-10-23
+----------------------------------------------------
+py-decorators-tutorial
+
+No Description.
+
+Stars: 9 	 fork: 3 	 updated: 2017-08-30
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Makefile(4)
+
+////////////////////////////////////////////////////
+
+
+grr-doc
+
+Documentation for the GRR Rapid Reponse framework
+
+Stars: 218 	 fork: 115 	 updated: 2017-10-24
+----------------------------------------------------
+chaps-linux
+
+PKCS#11 Implementation for Linux
+
+Stars: 24 	 fork: 7 	 updated: 2017-08-19
+----------------------------------------------------
+openssl-tests
+
+Running BoringSSL tests against OpenSSL
+
+Stars: 4 	 fork: 7 	 updated: 2017-01-31
+----------------------------------------------------
+TextNormalizationCoveringGrammars
+
+Covering grammars for English and Russian text normalization
+
+Stars: 1 	 fork: 1 	 updated: 2017-07-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Perl(3)
+
+////////////////////////////////////////////////////
+
+
+horenso
+
+探しやすいコードで漢字直接入力
+
+Stars: 39 	 fork: 5 	 updated: 2017-10-08
+----------------------------------------------------
+reportlatency
+
+Automatically exported from code.google.com/p/reportlatency
+
+Stars: 2 	 fork: 0 	 updated: 2017-02-17
+----------------------------------------------------
+verilogpp
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-09-11
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Arduino(3)
+
+////////////////////////////////////////////////////
+
+
+mozc-devices
+
+Automatically exported from code.google.com/p/mozc-morse
+
+Stars: 376 	 fork: 50 	 updated: 2017-10-05
+----------------------------------------------------
+makerspace-partsbin
+
+No Description.
+
+Stars: 4 	 fork: 3 	 updated: 2017-10-20
+----------------------------------------------------
+makerfaire-booth
+
+Code snippets for the Maker Faire 2016 Installation.  This is not an official Google Product.
+
+Stars: 3 	 fork: 6 	 updated: 2017-05-25
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Protocol Buffer(3)
+
+////////////////////////////////////////////////////
+
+
+transit
+
+No Description.
+
+Stars: 74 	 fork: 27 	 updated: 2017-10-23
+----------------------------------------------------
+power-traces
+
+No Description.
+
+Stars: 4 	 fork: 3 	 updated: 2017-02-17
+----------------------------------------------------
+dynamex-proto
+
+No Description.
+
+Stars: 2 	 fork: 1 	 updated: 2017-02-17
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+TeX(2)
+
+////////////////////////////////////////////////////
+
+
+cluster-data
+
+Migrated from code.google.com/p/googleclusterdata
+
+Stars: 106 	 fork: 40 	 updated: 2017-10-19
+----------------------------------------------------
+cxx-std-draft
+
+C++ standards drafts
+
+Stars: 36 	 fork: 10 	 updated: 2017-07-26
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Eagle(2)
+
+////////////////////////////////////////////////////
+
+
+prudaq
+
+ PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green
+
+Stars: 81 	 fork: 17 	 updated: 2017-10-20
+----------------------------------------------------
+makerspace-auth
+
+Designs for our makerspace access control devices
+
+Stars: 13 	 fork: 4 	 updated: 2017-09-21
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Groovy(2)
+
+////////////////////////////////////////////////////
+
+
+protobuf-gradle-plugin
+
+Protobuf Plugin for Gradle
+
+Stars: 364 	 fork: 82 	 updated: 2017-10-25
+----------------------------------------------------
+osdetector-gradle-plugin
+
+A Gradle plugin that detects the OS name and architecture, providing a uniform classifier to be used in the names of native artifacts.
+
+Stars: 26 	 fork: 8 	 updated: 2017-10-13
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+AppleScript(2)
+
+////////////////////////////////////////////////////
+
+
+steamkeysactivator
+
+Activates a bulk of Steam keys on Mac OS X
+
+Stars: 16 	 fork: 7 	 updated: 2017-09-22
+----------------------------------------------------
+PS3ControllerAutoSleep
+
+AppleScript turning off PS3 controller when Mac goes to sleep
+
+Stars: 3 	 fork: 4 	 updated: 2017-02-17
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Scala(2)
+
+////////////////////////////////////////////////////
+
+
+cluster-scheduler-simulator
+
+Automatically exported from code.google.com/p/cluster-scheduler-simulator
+
+Stars: 79 	 fork: 27 	 updated: 2017-09-25
+----------------------------------------------------
+sync3k-server
+
+No Description.
+
+Stars: 7 	 fork: 1 	 updated: 2017-10-20
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Emacs Lisp(2)
+
+////////////////////////////////////////////////////
+
+
+coverage
+
+No Description.
+
+Stars: 10 	 fork: 5 	 updated: 2017-08-12
+----------------------------------------------------
+dart-emacs-plugin-unsupported
+
+Unsupported
+
+Stars: 3 	 fork: 3 	 updated: 2017-05-10
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Gosu(1)
+
+////////////////////////////////////////////////////
+
+
+forcefield
+
+Keep email out of your inbox when you're not at work.
+
+Stars: 39 	 fork: 8 	 updated: 2017-09-15
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Elm(1)
+
+////////////////////////////////////////////////////
+
+
+keystone
+
+A software architectural modeling tool for programmers.
+
+Stars: 12 	 fork: 2 	 updated: 2017-09-25
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Erlang(1)
+
+////////////////////////////////////////////////////
+
+
+rysim
+
+RySim is a set of implementations of a simple SEIR simulation system
+
+Stars: 0 	 fork: 5 	 updated: 2016-10-03
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Idris(1)
+
+////////////////////////////////////////////////////
+
+
+idris-protobuf
+
+A partial implementation of Protocol Buffers in Idris
+
+Stars: 12 	 fork: 3 	 updated: 2017-10-10
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Verilog(1)
+
+////////////////////////////////////////////////////
+
+
+bbcpu
+
+No Description.
+
+Stars: 0 	 fork: 0 	 updated: 2017-10-05
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Puppet(1)
+
+////////////////////////////////////////////////////
+
+
+rpki-mgmt
+
+No Description.
+
+Stars: 2 	 fork: 4 	 updated: 2016-03-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Kotlin(1)
+
+////////////////////////////////////////////////////
+
+
+flexbox-layout
+
+Flexbox for Android 
+
+Stars: 9644 	 fork: 1037 	 updated: 2017-10-25
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Bison(1)
+
+////////////////////////////////////////////////////
+
+
+classp
+
+Classp -- a classier way to parse
+
+Stars: 164 	 fork: 12 	 updated: 2017-10-09
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+PureBasic(1)
+
+////////////////////////////////////////////////////
+
+
+digitalassetlinks
+
+No Description.
+
+Stars: 23 	 fork: 5 	 updated: 2017-09-16
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Lasso(1)
+
+////////////////////////////////////////////////////
+
+
+kir-holiday-lights
+
+No Description.
+
+Stars: 5 	 fork: 3 	 updated: 2017-02-17
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Common Lisp(1)
+
+////////////////////////////////////////////////////
+
+
+lisp-koans
+
+Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. 
+
+Stars: 1765 	 fork: 366 	 updated: 2017-10-23
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+KiCad(1)
+
+////////////////////////////////////////////////////
+
+
+makerspace-emonth
+
+No Description.
+
+Stars: 1 	 fork: 2 	 updated: 2017-07-30
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Clojure(1)
+
+////////////////////////////////////////////////////
+
+
+clojure-turtle
+
+A Clojure library that implements the Logo programming language in a Clojure context
+
+Stars: 370 	 fork: 30 	 updated: 2017-10-24
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Visual Basic(1)
+
+////////////////////////////////////////////////////
+
+
+gsps-support-tool
+
+Support tool for G Suite Password Sync (GSPS), formerly Google Apps Password Sync (GAPS)
+
+Stars: 6 	 fork: 6 	 updated: 2017-08-18
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Processing(1)
+
+////////////////////////////////////////////////////
+
+
+irrduino
+
+Irrduino is an Arduino-based irrigation control system.
+
+Stars: 39 	 fork: 14 	 updated: 2017-08-23
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Elixir(1)
+
+////////////////////////////////////////////////////
+
+
+strabo
+
+No Description.
+
+Stars: 49 	 fork: 3 	 updated: 2017-07-06
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+OpenSCAD(1)
+
+////////////////////////////////////////////////////
+
+
+cncmicroscope-cad
+
+CNC MIcroscope CAD files.  This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.”
+
+Stars: 5 	 fork: 3 	 updated: 2017-08-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Groff(1)
+
+////////////////////////////////////////////////////
+
+
+capsicum-man-pages
+
+Man page updates for Capsicum on Linux
+
+Stars: 6 	 fork: 2 	 updated: 2017-08-19
+----------------------------------------------------
+
+
+////////////////////////////////////////////////////
+
+Lua(1)
+
+////////////////////////////////////////////////////
+
+
+FluidNet
+
+Accelerating Eulerian Fluid Simulation With Convolutional Networks
+
+Stars: 457 	 fork: 64 	 updated: 2017-10-15
+----------------------------------------------------
