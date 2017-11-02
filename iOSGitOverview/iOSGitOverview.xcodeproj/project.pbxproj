@@ -8,20 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		9CA995831FA7136200C4DBBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995821FA7136200C4DBBD /* AppDelegate.swift */; };
-		9CA995851FA7136200C4DBBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995841FA7136200C4DBBD /* ViewController.swift */; };
+		9CA995851FA7136200C4DBBD /* SearchRepositoryUIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */; };
 		9CA995881FA7136200C4DBBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA995861FA7136200C4DBBD /* Main.storyboard */; };
 		9CA9958A1FA7136200C4DBBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA995891FA7136200C4DBBD /* Assets.xcassets */; };
 		9CA9958D1FA7136200C4DBBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA9958B1FA7136200C4DBBD /* LaunchScreen.storyboard */; };
+		9CAC181B1FA9FF0B006C7111 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC181A1FA9FF0B006C7111 /* Repository.swift */; };
+		9CAC18201FAB4DF7006C7111 /* SearchRepositoriesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */; };
+		9CAC18231FAB50DD006C7111 /* SearchRepositoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9CA9957F1FA7136200C4DBBD /* iOSGitOverview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSGitOverview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CA995821FA7136200C4DBBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9CA995841FA7136200C4DBBD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoryUIController.swift; sourceTree = "<group>"; };
 		9CA995871FA7136200C4DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9CA995891FA7136200C4DBBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CA9958C1FA7136200C4DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CA9958E1FA7136200C4DBBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CAC181A1FA9FF0B006C7111 /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
+		9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoriesController.swift; sourceTree = "<group>"; };
+		9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +61,48 @@
 			isa = PBXGroup;
 			children = (
 				9CA995821FA7136200C4DBBD /* AppDelegate.swift */,
-				9CA995841FA7136200C4DBBD /* ViewController.swift */,
+				9CAC181C1FAB4DC1006C7111 /* UI */,
+				9CAC181D1FAB4DC8006C7111 /* Components */,
+				9CAC181A1FA9FF0B006C7111 /* Repository.swift */,
 				9CA995861FA7136200C4DBBD /* Main.storyboard */,
 				9CA995891FA7136200C4DBBD /* Assets.xcassets */,
 				9CA9958B1FA7136200C4DBBD /* LaunchScreen.storyboard */,
 				9CA9958E1FA7136200C4DBBD /* Info.plist */,
 			);
 			path = iOSGitOverview;
+			sourceTree = "<group>";
+		};
+		9CAC181C1FAB4DC1006C7111 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC18211FAB5093006C7111 /* ViewControllers */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		9CAC181D1FAB4DC8006C7111 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC181E1FAB4DD3006C7111 /* Controllers */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		9CAC181E1FAB4DD3006C7111 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		9CAC18211FAB5093006C7111 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */,
+				9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,8 +177,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9CA995851FA7136200C4DBBD /* ViewController.swift in Sources */,
+				9CAC18231FAB50DD006C7111 /* SearchRepositoryViewController.swift in Sources */,
+				9CA995851FA7136200C4DBBD /* SearchRepositoryUIController.swift in Sources */,
 				9CA995831FA7136200C4DBBD /* AppDelegate.swift in Sources */,
+				9CAC181B1FA9FF0B006C7111 /* Repository.swift in Sources */,
+				9CAC18201FAB4DF7006C7111 /* SearchRepositoriesController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
