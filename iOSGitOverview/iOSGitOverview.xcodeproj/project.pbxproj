@@ -8,26 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		9CA995831FA7136200C4DBBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995821FA7136200C4DBBD /* AppDelegate.swift */; };
-		9CA995851FA7136200C4DBBD /* SearchRepositoryUIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */; };
+		9CA995851FA7136200C4DBBD /* RepositorySearchUIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA995841FA7136200C4DBBD /* RepositorySearchUIController.swift */; };
 		9CA995881FA7136200C4DBBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA995861FA7136200C4DBBD /* Main.storyboard */; };
 		9CA9958A1FA7136200C4DBBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA995891FA7136200C4DBBD /* Assets.xcassets */; };
 		9CA9958D1FA7136200C4DBBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CA9958B1FA7136200C4DBBD /* LaunchScreen.storyboard */; };
 		9CAC181B1FA9FF0B006C7111 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC181A1FA9FF0B006C7111 /* Repository.swift */; };
-		9CAC18201FAB4DF7006C7111 /* SearchRepositoriesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */; };
-		9CAC18231FAB50DD006C7111 /* SearchRepositoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */; };
+		9CAC18201FAB4DF7006C7111 /* RepositorySearchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC181F1FAB4DF7006C7111 /* RepositorySearchController.swift */; };
+		9CAC18231FAB50DD006C7111 /* RepositorySearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18221FAB50DD006C7111 /* RepositorySearchViewController.swift */; };
+		9CAC18261FAB51B2006C7111 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18251FAB51B2006C7111 /* LoadingView.swift */; };
+		9CAC18291FAB531B006C7111 /* RepositoryCellController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18281FAB531B006C7111 /* RepositoryCellController.swift */; };
+		9CAC182B1FAB5404006C7111 /* RepositoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC182A1FAB5404006C7111 /* RepositoryCell.swift */; };
+		9CAC182E1FAC751E006C7111 /* CellConfigurable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC182D1FAC751E006C7111 /* CellConfigurable.swift */; };
+		9CAC18301FAC7643006C7111 /* ColectionView+Dequeuing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC182F1FAC7643006C7111 /* ColectionView+Dequeuing.swift */; };
+		9CAC18331FAF29C3006C7111 /* CollectionViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAC18321FAF29C3006C7111 /* CollectionViewDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9CA9957F1FA7136200C4DBBD /* iOSGitOverview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSGitOverview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CA995821FA7136200C4DBBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoryUIController.swift; sourceTree = "<group>"; };
+		9CA995841FA7136200C4DBBD /* RepositorySearchUIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositorySearchUIController.swift; sourceTree = "<group>"; };
 		9CA995871FA7136200C4DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9CA995891FA7136200C4DBBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CA9958C1FA7136200C4DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CA9958E1FA7136200C4DBBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CAC181A1FA9FF0B006C7111 /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
-		9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoriesController.swift; sourceTree = "<group>"; };
-		9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchRepositoryViewController.swift; sourceTree = "<group>"; };
+		9CAC181F1FAB4DF7006C7111 /* RepositorySearchController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositorySearchController.swift; sourceTree = "<group>"; };
+		9CAC18221FAB50DD006C7111 /* RepositorySearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositorySearchViewController.swift; sourceTree = "<group>"; };
+		9CAC18251FAB51B2006C7111 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		9CAC18281FAB531B006C7111 /* RepositoryCellController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryCellController.swift; sourceTree = "<group>"; };
+		9CAC182A1FAB5404006C7111 /* RepositoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryCell.swift; sourceTree = "<group>"; };
+		9CAC182D1FAC751E006C7111 /* CellConfigurable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellConfigurable.swift; sourceTree = "<group>"; };
+		9CAC182F1FAC7643006C7111 /* ColectionView+Dequeuing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ColectionView+Dequeuing.swift"; sourceTree = "<group>"; };
+		9CAC18321FAF29C3006C7111 /* CollectionViewDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +72,11 @@
 		9CA995811FA7136200C4DBBD /* iOSGitOverview */ = {
 			isa = PBXGroup;
 			children = (
+				9CAC18311FAC7E42006C7111 /* Resources */,
 				9CA995821FA7136200C4DBBD /* AppDelegate.swift */,
 				9CAC181C1FAB4DC1006C7111 /* UI */,
 				9CAC181D1FAB4DC8006C7111 /* Components */,
-				9CAC181A1FA9FF0B006C7111 /* Repository.swift */,
 				9CA995861FA7136200C4DBBD /* Main.storyboard */,
-				9CA995891FA7136200C4DBBD /* Assets.xcassets */,
 				9CA9958B1FA7136200C4DBBD /* LaunchScreen.storyboard */,
 				9CA9958E1FA7136200C4DBBD /* Info.plist */,
 			);
@@ -75,6 +86,8 @@
 		9CAC181C1FAB4DC1006C7111 /* UI */ = {
 			isa = PBXGroup;
 			children = (
+				9CAC182C1FAB553F006C7111 /* Generic UI */,
+				9CAC18241FAB51A1006C7111 /* Views */,
 				9CAC18211FAB5093006C7111 /* ViewControllers */,
 			);
 			path = UI;
@@ -83,6 +96,7 @@
 		9CAC181D1FAB4DC8006C7111 /* Components */ = {
 			isa = PBXGroup;
 			children = (
+				9CAC18271FAB52EE006C7111 /* Models */,
 				9CAC181E1FAB4DD3006C7111 /* Controllers */,
 			);
 			path = Components;
@@ -91,7 +105,7 @@
 		9CAC181E1FAB4DD3006C7111 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				9CAC181F1FAB4DF7006C7111 /* SearchRepositoriesController.swift */,
+				9CAC181F1FAB4DF7006C7111 /* RepositorySearchController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -99,10 +113,46 @@
 		9CAC18211FAB5093006C7111 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				9CA995841FA7136200C4DBBD /* SearchRepositoryUIController.swift */,
-				9CAC18221FAB50DD006C7111 /* SearchRepositoryViewController.swift */,
+				9CA995841FA7136200C4DBBD /* RepositorySearchUIController.swift */,
+				9CAC18221FAB50DD006C7111 /* RepositorySearchViewController.swift */,
+				9CAC18281FAB531B006C7111 /* RepositoryCellController.swift */,
+				9CAC182A1FAB5404006C7111 /* RepositoryCell.swift */,
 			);
 			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		9CAC18241FAB51A1006C7111 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC18251FAB51B2006C7111 /* LoadingView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		9CAC18271FAB52EE006C7111 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC181A1FA9FF0B006C7111 /* Repository.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9CAC182C1FAB553F006C7111 /* Generic UI */ = {
+			isa = PBXGroup;
+			children = (
+				9CAC182D1FAC751E006C7111 /* CellConfigurable.swift */,
+				9CAC182F1FAC7643006C7111 /* ColectionView+Dequeuing.swift */,
+				9CAC18321FAF29C3006C7111 /* CollectionViewDataSource.swift */,
+			);
+			path = "Generic UI";
+			sourceTree = "<group>";
+		};
+		9CAC18311FAC7E42006C7111 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9CA995891FA7136200C4DBBD /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,11 +227,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9CAC18231FAB50DD006C7111 /* SearchRepositoryViewController.swift in Sources */,
-				9CA995851FA7136200C4DBBD /* SearchRepositoryUIController.swift in Sources */,
+				9CAC18231FAB50DD006C7111 /* RepositorySearchViewController.swift in Sources */,
+				9CAC18331FAF29C3006C7111 /* CollectionViewDataSource.swift in Sources */,
+				9CAC18291FAB531B006C7111 /* RepositoryCellController.swift in Sources */,
+				9CA995851FA7136200C4DBBD /* RepositorySearchUIController.swift in Sources */,
 				9CA995831FA7136200C4DBBD /* AppDelegate.swift in Sources */,
+				9CAC182E1FAC751E006C7111 /* CellConfigurable.swift in Sources */,
 				9CAC181B1FA9FF0B006C7111 /* Repository.swift in Sources */,
-				9CAC18201FAB4DF7006C7111 /* SearchRepositoriesController.swift in Sources */,
+				9CAC18201FAB4DF7006C7111 /* RepositorySearchController.swift in Sources */,
+				9CAC18261FAB51B2006C7111 /* LoadingView.swift in Sources */,
+				9CAC182B1FAB5404006C7111 /* RepositoryCell.swift in Sources */,
+				9CAC18301FAC7643006C7111 /* ColectionView+Dequeuing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

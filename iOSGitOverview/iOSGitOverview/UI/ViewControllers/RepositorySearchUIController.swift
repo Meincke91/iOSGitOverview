@@ -8,11 +8,52 @@
 
 import UIKit
 
-class SearchRepositoryUIController {
+class RepositorySearchUIController {
+    private unowned var view: UIView
+    private let loadingView: LoadingView
+    private let collectionViewDataSource: CollectionViewDataSource<RepositoryCellController, RepositoryCell>
     
-    @IBOutlet weak var searchBar: UISearchBar!
-    @IBOutlet weak var collectionView: UICollectionView!
+    var state: UIState = .Loading {
+        willSet(newState) {
+            update(newState: newState)
+        }
+    }
     
+    init(view: UIView, collectionView: UICollectionView) {
+        self.view = view
+        self.loadingView = LoadingView(frame: CGRect(origin: .zero, size: collectionView.frame.size))
+        self.collectionViewDataSource = CollectionViewDataSource<RepositoryCellController, RepositoryCell>(collectionView: collectionView)
+        
+        collectionView.dataSource = collectionViewDataSource
+        update(newState: state)
+    }
+    
+}
+
+extension RepositorySearchUIController: RepositorySearchDelegate {
+    func update(newState: UIState) {
+        switch (state, newState) {
+            case (.Loading, .Loading):
+                loadingToLoading()
+            case (.Loading, .Success(let repositories)):
+                loadingToSuccess(repositories: repositories)
+            default:
+                fatalError("Not yet implemented \(state) to \(newState)")
+        }
+
+    }
+    
+    func loadingToLoading() {
+        view.addSubview(loadingView)
+        loadingView.frame = CGRect(origin: .zero, size: view.frame.size)
+    }
+    
+    func loadingToSuccess(repositories: [Repository]) {
+        loadingView.removeFromSuperview()
+        collectionViewDataSource.dataSource = repositories.map(RepositoryCellController.init)
+    }
+}
+/*
     var searchActive : Bool = false
     
     var repositories = [
@@ -98,21 +139,7 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
         } else {
             repository = repositories[indexPath.row]
         }
-        if let starsLabel = cell.viewWithTag(21) as? UILabel {
-            starsLabel.text = "stars: " + String(repository.stars)
-        }
-        if let forkLabel = cell.viewWithTag(22) as? UILabel {
-            forkLabel.text = "fork: " + String(repository.fork)
-        }
-        if let updatedLabel = cell.viewWithTag(23) as? UILabel {
-            updatedLabel.text = "updated: " + repository.updated
-        }
-        if let nameLabel = cell.viewWithTag(24) as? UILabel {
-            nameLabel.text = String(repository.name)
-        }
-        if let descriptionLabel = cell.viewWithTag(25) as? UILabel {
-            descriptionLabel.text = String(repository.description)
-        }
+
         
         return cell
     }
@@ -132,3 +159,5 @@ extension ViewController: UISearchResultsUpdating {
         filterContentForSearchText(searchBar.text!)
     }
 }
+ 
+ */

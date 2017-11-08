@@ -9,7 +9,7 @@
 import Foundation
 
 enum UIState {
-    case Searching
+    case Loading
     case Empty
     case Success([Repository])
     case Failure(Error)
@@ -29,7 +29,7 @@ final class RepositorySearchController: RepositorySearchHandler {
     
     func fetchRepositories() {
         guard let delegate = self.delegate else { fatalError("Delegate not found") }
-        delegate.state = .Searching
+        delegate.state = .Loading
     }
     
     
